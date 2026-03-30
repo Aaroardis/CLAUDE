@@ -10,7 +10,7 @@ Last updated: 2026-03-30
 Before any task, Claude must:
 1. Read `MEMORY.md` (this file)
 2. Read `ABOUT_ME.md` from GitHub
-3. Read all uploaded project files before generating scripts or content
+3. Read ALL uploaded project files before generating scripts or content
 
 ---
 
@@ -31,7 +31,7 @@ Before any task, Claude must:
 | --- | --- |
 | `MEMORY.md` | This file — read at start of every session |
 | `ABOUT_ME.md` | Aaro's bio, credentials, offerings, pricing — sourced from aaroardis.com archive (March 2026) |
-| `scripts/polyamory_ENM_basics.md` | Script batch 1 — Polyamory/ENM basics, male audience, all platforms |
+| `scripts/polyamory_ENM_basics.md` | Script batch 1 — Polyamory/ENM basics, male audience, all platforms. Includes send-to-him variants on scripts 03, 04, 05, 08, 11, 12 |
 
 ---
 
@@ -53,12 +53,33 @@ Before any task, Claude must:
 
 ---
 
-## Upcoming Goals (by April 8, 2026)
+## Upcoming Goals (by April 8, 2026 — Skirt Club Workshop)
 
-* **Social media following** — grow credibility before Skirt Club workshop (April 8)
+* **Skirt Club** — 26,000 member global community, play party series + sex ed platform for women. Aaro is teaching a workshop April 8.
+* **Social media following** — grow credibility before the workshop
 * **Newsletter** — set up via Canva + Mailchimp, going out regularly, harvest emails
 * **Ebooks** — at least 3 (~10 pages each); 1 free lead magnet, 2 for purchase (discount code offer)
 * **Scripts** — 15–50 second videos for TikTok / Reels / YouTube Shorts
+
+---
+
+## Script Workflow
+
+* Scripts live in `scripts/` folder in GitHub repo
+* Each topic batch = its own file
+* Status markers on every script: `DRAFT` | `READY` | `FILMED` | `POSTED`
+* Some scripts have a **SEND-TO-HIM version** — written for a woman to share with her male partner
+* To work on a specific script: reference by number or title, revise, push updated file back to GitHub
+
+---
+
+## Instagram Style Research (In Progress)
+
+* Aaro wants to study top-performing Reels from reference accounts to incorporate hooks/style
+* yt-dlp hits a 403 on Instagram without authenticated session cookies
+* **Next step:** Use EditThisCookie Chrome extension to export Instagram session cookies → pass to yt-dlp
+* Reference account noted: Miss Jaiya (already in scripts reference doc)
+* Style reference Reel saved: https://www.instagram.com/reel/DV852mUCVKt/
 
 ---
 
@@ -75,17 +96,17 @@ Before any task, Claude must:
 * **GitHub repo:** `Aaroardis/CLAUDE` (public)
 * **GitHub token:** stored in Claude Reference File (system prompt)
 * **Scripts folder:** `scripts/` in repo — each batch is its own file
-* **Status markers:** `DRAFT` | `READY` | `FILMED` | `POSTED`
 
 ---
 
 ## Lessons Learned
 
-* Always read ABOUT_ME.md and all project files before generating scripts or content
+* Always read ABOUT_ME.md and ALL project files before generating scripts or content — do not skip this
 * Primary audience is MEN — default all scripts/content to male audience unless told otherwise
+* Aaro occasionally makes posts for women to send to men — always consider a send-to-him variant for emotionally resonant scripts
 * Aaro's voice: warm, intelligent, culturally aware, empowering — not clinical, not preachy
-* When archiving website content, user prefers plain text output — no Word doc needed
 * ABOUT_ME.md is the canonical reference for Aaro's bio, credentials, offerings, and pricing
+* When archiving website content, user prefers plain text output — no Word doc needed
 
 ---
 
