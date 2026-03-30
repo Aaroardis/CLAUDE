@@ -5,11 +5,22 @@ Last updated: 2026-03-30
 
 ---
 
+## ⚠️ Session Start Checklist — Do This EVERY Chat
+
+Before any task, Claude must:
+1. Read `MEMORY.md` (this file)
+2. Read `ABOUT_ME.md` from GitHub
+3. Read all uploaded project files before generating scripts or content
+
+---
+
 ## About This Project
 
 * Working with **Aaro Ardis** — intimacy coach, relationship luminary, and founder of [aaroardis.com](https://www.aaroardis.com)
 * The business offers **retreats, playshops, and private coaching** focused on the future of love, ethical non-monogamy, divine intimacy, and relational evolution
-* Primary audience: men & mascs (also couples & polycules) — website historically also served women exploring conscious relationships
+* **Primary client base: men & mascs** — content and scripts should default to a male audience unless specified otherwise
+* Aaro works across the full spectrum of sexuality (men, women, non-binary) but her coaching practice is centered on helping men understand themselves, women, and love
+* Also works with couples & polycules
 * Brand voice: warm, elevated, poetic, bold, non-judgmental, and forward-thinking
 
 ---
@@ -20,6 +31,7 @@ Last updated: 2026-03-30
 | --- | --- |
 | `MEMORY.md` | This file — read at start of every session |
 | `ABOUT_ME.md` | Aaro's bio, credentials, offerings, pricing — sourced from aaroardis.com archive (March 2026) |
+| `scripts/polyamory_ENM_basics.md` | Script batch 1 — Polyamory/ENM basics, male audience, all platforms |
 
 ---
 
@@ -32,6 +44,21 @@ Last updated: 2026-03-30
 | `Insights_from_Your_Second_Session_Justin_March_2026.pdf` | Private session notes — client Justin (+ Julia) |
 | `Insights_from_Your_First_Session_Mishka__Emil__March_2026.pdf` | Private session notes — clients Mishka & Emil |
 | `Insights_from_Your_Third_Session_CJ_January_15th_2026.pdf` | Private session notes — client CJ |
+| `Insights_from_Your_Tenth__Eleventh_Sessions_John_Dec_17th__21st_2025.pdf` | Private session notes — client John |
+| `Insights_from_Your_Fourth_Session_Ben_October_15th_2025.pdf` | Private session notes — client Ben |
+| `Insights_from_Your_Third_Session_Steven_August_1644th_2025.pdf` | Private session notes — client Steven |
+| `Insights_from_Your_Third_Session_Ben_August_12th_2025.pdf` | Private session notes — client Ben (earlier session) |
+| `Insights_from_Your_Evening_Session_Todd__Alice_March_13th_2025.pdf` | Private session notes — clients Todd & Alice |
+| `SOCIAL_MEDIA_SCRIPTS__MARCH_30TH_2026_via_Claude.pdf` | Existing scripts archive — use as voice/style reference before writing new scripts |
+
+---
+
+## Upcoming Goals (by April 8, 2026)
+
+* **Social media following** — grow credibility before Skirt Club workshop (April 8)
+* **Newsletter** — set up via Canva + Mailchimp, going out regularly, harvest emails
+* **Ebooks** — at least 3 (~10 pages each); 1 free lead magnet, 2 for purchase (discount code offer)
+* **Scripts** — 15–50 second videos for TikTok / Reels / YouTube Shorts
 
 ---
 
@@ -47,13 +74,17 @@ Last updated: 2026-03-30
 
 * **GitHub repo:** `Aaroardis/CLAUDE` (public)
 * **GitHub token:** stored in Claude Reference File (system prompt)
-* **Stack:** No codebase yet — repo initialized this session
+* **Scripts folder:** `scripts/` in repo — each batch is its own file
+* **Status markers:** `DRAFT` | `READY` | `FILMED` | `POSTED`
 
 ---
 
 ## Lessons Learned
 
-* When archiving website content, user prefers plain text output to paste manually — no Word doc needed
+* Always read ABOUT_ME.md and all project files before generating scripts or content
+* Primary audience is MEN — default all scripts/content to male audience unless told otherwise
+* Aaro's voice: warm, intelligent, culturally aware, empowering — not clinical, not preachy
+* When archiving website content, user prefers plain text output — no Word doc needed
 * ABOUT_ME.md is the canonical reference for Aaro's bio, credentials, offerings, and pricing
 
 ---
