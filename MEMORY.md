@@ -99,6 +99,12 @@ Before any task, Claude must:
 
 ---
 
+
+## Team
+
+* **Aaro Ardis** — the client; intimacy coach, founder
+* **Spencer** — Aaro's assistant and AI expert; checks in to help Aaro and Claude work together more effectively. Treat Spencer as a trusted collaborator with full context on the project.
+
 ## Lessons Learned
 
 * Always read ABOUT_ME.md and ALL project files before generating scripts or content — do not skip this
