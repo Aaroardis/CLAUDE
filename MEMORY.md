@@ -123,3 +123,19 @@ Before any task, Claude must:
 * Minimal clean code, no over-engineering
 * Explain reasoning briefly
 * Treat as experienced peer
+
+---
+
+## Aaro's Edit Style (for social media + content work)
+
+Learned from her personal edit of the Skirt Club EYTB workshop proposal (March 31, 2026):
+
+* **Adjectives have texture and attitude** — "dusty and outdated" not "inherited"; "powerful and provocative" not "bold and thought-provoking"
+* **Parenthetical asides** add personality — ("ahem, playshop") — don't sand these down
+* **Exclamation points are earned** — used for genuine heat, not scattered for effect
+* **Punch up openers and closers** — let the middle breathe
+* **Tighten without losing heat** — she cuts filler but never cuts aliveness
+* **"Medicine for it"** type constructions — short, declarative, landing lines after a buildup
+* **Questions formatted on separate lines** when used as a list — not buried in paragraph prose
+* Do NOT reformat her sentences into "For women who…" style literary devices — she finds that GPT-ish and flat
+* Pull her actual phrases verbatim when possible — people love her writing, don't paraphrase it into genericness
