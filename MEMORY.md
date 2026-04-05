@@ -1,7 +1,7 @@
 # Claude Memory & Lessons Learned
 
 This file is maintained by Claude and should be read at the start of every new conversation.
-Last updated: 2026-04-03
+Last updated: 2026-04-04
 
 ---
 
@@ -64,6 +64,45 @@ Before any task, Claude must:
 
 ---
 
+## Three-Channel Social Media Strategy (NEW — April 4, 2026)
+
+Aaro is developing a three-account Instagram architecture, all fully siloed:
+
+### Channel 1 — Aaro Ardis (her personal brand account)
+* Polished, grounded, safe, nurturing
+* Deep emotional / spiritual content; personal evolution framing
+* Well-bounded; feels safe and alive
+* Target: actual clients for her coaching practice
+
+### Channel 2 — AI Actress #1 (the flirty alter ego)
+* Remixed version of Aaro's content: hookier, wittier, sexier, funnier
+* More emotional contrast and curiosity-building
+* Tells you what you're afraid to ask; gives advice in a flirty, entertaining way
+* Products: ebooks (funnier/sexier versions of Aaro's), possible ASMR or OnlyFans with confidence-boosting affirmations
+* Energy: confidence-boosting + takes you down a notch if you think you're beyond learning
+* Target: people who want the value but with entertainment
+
+### Channel 3 — AI Actress #2 (the money/behind-the-scenes persona)
+* "How I make money as an intimacy and relationship coach / sex coach"
+* Busts myths — especially the common misconception that sex coaches touch clients physically
+* Shows what actually happens in sessions: tantric energy work, emotional release, visioning, masculine/feminine energy work
+* Dual audience: curious men who want to understand the world of intimacy coaching + aspiring coaches who want to know how to monetize this work
+* Sells products to coaches: guides/courses on launching or accelerating a coaching practice
+* Angle: sexy curiosity — not dry business content, seductive transparency
+* All three accounts are fully siloed — no cross-referencing
+
+### AI Actress Platform Research (April 4, 2026)
+Key tools evaluated for creating AI personas:
+* **HeyGen** — best overall for social media; 1,100+ stock avatars OR custom avatar from selfie video; 100+ AI voices (no recording needed); $29/month Creator plan (unlimited videos); free plan = 3 videos/month
+* **D-ID** — best for animating a single AI-generated photo; cheapest entry at ~$5.90/month; slightly less polished but great for testing a custom face
+* **Vidnoz** — best free option; 1,900+ avatars; free plan with 2 min/day; paid from $19.99/month
+* **Akool** — flexible credit pool across avatar video, image gen, face swap; from $15/month annually
+* **VEED.io** — video editor + AI avatars in one; good if editing workflow matters; from $12/month
+* **Atlabs AI** — most creative control; generate fully custom avatars from scratch (not shared stock faces); best for building a truly unique persona
+* **Next step:** Decide look and voice for each AI actress persona before choosing platform
+
+---
+
 ## Script Workflow
 
 * Scripts live in `scripts/` folder in GitHub repo
@@ -99,7 +138,6 @@ Before any task, Claude must:
 * **Scripts folder:** `scripts/` in repo — each batch is its own file
 
 ---
-
 
 ## Team
 
