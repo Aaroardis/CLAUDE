@@ -1,7 +1,7 @@
 # Claude Memory & Lessons Learned
 
 This file is maintained by Claude and should be read at the start of every new conversation.
-Last updated: 2026-04-04
+Last updated: 2026-04-10
 
 ---
 
@@ -178,3 +178,48 @@ Learned from her personal edit of the Skirt Club EYTB workshop proposal (March 3
 * **Questions formatted on separate lines** when used as a list — not buried in paragraph prose
 * Do NOT reformat her sentences into "For women who…" style literary devices — she finds that GPT-ish and flat
 * Pull her actual phrases verbatim when possible — people love her writing, don't paraphrase it into genericness
+
+
+---
+
+## Insights Summary — Voice & Craft Guidelines
+### (Learned from Paul Barudin session, April 2026 — study of Aaro's edits to Claude's draft)
+
+### Tone
+* Conversational, gently instructive, tender with difficulties, consistently encouraging
+* Never clinical — not a therapy document, not a report
+* Warm and personal; sensorily specific — invite the reader into felt experience, not just concepts
+* Uses ideas of expansion and potential without heavy spiritual/new age jargon
+* Talks about love openly and naturally — love is the throughline
+
+### Structure Per Section
+* **Opening of a section** sets a metaphor OR introduces a possibility — one metaphor per section only, then live in it
+* **Closing of a section** lands on increased possibility, positive effect, or a forward-facing invitation — never ends on a problem or a neutral observation
+* ". . ." used as a visual breath/separator before shifting gears within a section
+* Questions get their own line — never buried in prose
+
+### Agency & Empowerment
+* Always end exercises with agency and forward motion — the reader makes a choice, takes an action, feels capable
+* Place responsibility and choice in the hands of the reader — they are empowered to take invitations and run with them
+* Never tell people what they're struggling with or feeling bad about — they know. Give them new resources, patterns, invitations, hope, and belief in themselves as loving, loved change agents
+
+### What to Avoid
+* Do NOT name a client's struggles directly or lead with negative emotion — it's too confronting without in-person support
+* Do NOT write choppy declarative sentences as a default style — occasional short lines for rhythm only; sentences are generally more elaborate, with clauses that flow precisely into each other
+* Do NOT use one metaphor across multiple sections — each section gets its own
+* Do NOT frame things defensively (e.g. "it's not a limitation") — just lead with the positive truth
+* Avoid filler closing lines — "and you get to answer it" type endings get cut
+
+### Content Decisions by Session
+* **Tender topics** (e.g. anger patterns, sexuality labels, past wounds) are NOT addressed in writing in early sessions — they need in-person support to be well-received and safely digested. Save for later sessions when trust is established
+* **First sessions** are not necessarily lighter in depth, but DO lead with celebration, vision, and simple practices — not psychological analysis
+* **Intimacy technique content** (praise training, foot massage, yoni massage) is appropriate in documents but introduced gradually — not necessarily session one
+
+### Specific Craft Moves
+* Affirmations written in first person, set off with ". . ." visual separator, each on its own line with breathing room
+* Activity/vision lists are generous and specific — multiple options, real URLs when relevant, sensory detail
+* "Reasons I'm a Catch" list examples are poetic and embodied, not functional — "My eyes are the color of calm ocean/ fresh sage" not "I am a good listener"
+* Mantra options offered as a small menu to choose from, closed with a soft sensory image (shower steam, planting a seed)
+* Tara Brach and Thich Nhat Hanh recommended by name with specific talk titles and platforms (Spotify, YouTube, tarabrach.com)
+* Real clickable links included where relevant
+* OMGYes and Urban Tantra are Aaro's standard resource recommendations for intimacy — include in most men's session documents
