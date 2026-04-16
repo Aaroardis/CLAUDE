@@ -9,6 +9,8 @@
 
 ---
 
+---
+
 ## SCRIPT 01 — "The Real ROI of Sexual Health"
 **Status:** `READY`
 **Length:** ~40 seconds | **Hook Type:** Honest question / Aspirational
@@ -27,6 +29,8 @@ The men who are the MOST extraordinary lovers aren't doing anything mystical... 
 Here's just ONE thing you can do today to show up as a better lover: get adequate sleep.
 
 And when you're ready to make a comprehensive plan to optimizing your body for the bedroom — as well as your whole self — you know where to find me.
+
+---
 
 ---
 
@@ -53,21 +57,28 @@ If you're ready to show up clear, strong, loving, and present — I can show you
 
 ---
 
+---
+
 ## SCRIPT 03 — "Your Libido Is Trying to Tell You Something"
 **Status:** `DRAFT`
-**Length:** ~20 seconds | **Hook Type:** Reframe
+**Length:** ~25 seconds | **Hook Type:** Confession / Reframe
 **Audience:** Direct to man | **Topic:** Sexual vitality / nervous system
 
-If your desire has gone quiet —
+Honestly... if your desire has gone quiet — I want you to hear this before you spiral.
 
-It's not age. It's not her. It's probably not even your testosterone.
+It's probably not age.
+It's probably not her.
+It's probably not even your testosterone.
 
-Low libido is almost always a signal from your nervous system that something is OFF.
-Stress. Disconnection. Suppressed resentment. An unlived desire.
+Low libido is almost always your nervous system waving a flag.
+Stress. Disconnection. Suppressed resentment. An unlived desire that's been waiting patiently for you to notice it.
 
-What if your body is just waiting for you to get honest?
+Your body isn't broken.
+It's just waiting for you to get honest.
 
-That's the conversation I have with men every single day.
+What's one thing you've been pushing down lately? Drop it in the comments — seriously.
+
+---
 
 ---
 
@@ -76,18 +87,22 @@ That's the conversation I have with men every single day.
 **Length:** ~25 seconds | **Hook Type:** Reframe / Aspirational
 **Audience:** Direct to man | **Topic:** Men's vitality / clean lifestyle
 
-You already know testosterone shapes your body.
+Here's something I need you to sit with for a second.
 
-Here's what most men haven't connected yet:
+Testosterone isn't just a body hormone. It's a LEADERSHIP hormone.
 
-It also shapes how you *lead* — in your relationship, in your business, in a room.
+It shapes how clear you are. How decisive. How present you feel in a room — and in a relationship.
 
-Testosterone is built by challenge, by purpose, by the feeling that what you do *matters.*
+And it's built — or depleted — by how you live.
 
-The men I work with who optimize this? They're not just more vital in bed.
-They're clearer. More decisive. More present everywhere.
+Challenge builds it. Purpose builds it. The feeling that what you do actually MATTERS builds it.
 
-Clean up the inputs. Watch everything change.
+Chronic stress, poor sleep, inflammatory food, a life that feels small?
+Those quietly gut it. Over months. Without you noticing.
+
+So... what inputs are you currently optimizing for?
+
+---
 
 ---
 
@@ -96,18 +111,21 @@ Clean up the inputs. Watch everything change.
 **Length:** ~20 seconds | **Hook Type:** Provocative truth
 **Audience:** Direct to man | **Topic:** Sleep / sexual vitality
 
-One night of bad sleep drops testosterone by up to 15%.
+Can I say something that might sting a little?
 
-One night.
+One night of bad sleep drops your testosterone by up to 15%.
 
-So if you're running on 5 or 6 hours and wondering why your drive feels off —
+One. Night.
 
-It's not a mystery.
+So if you're running on five or six hours and wondering why your drive feels flat, your presence feels thin, your patience with her feels short —
 
-The most virile, present, electrifying men I know?
-They protect their sleep like they protect their bank account.
+It's not a mystery. It's math.
 
-Start there.
+The most vital, alive, electrifying men I work with protect their sleep like they protect their time and money.
+
+Start there. Tonight.
+
+---
 
 ---
 
@@ -116,88 +134,102 @@ Start there.
 **Length:** ~30 seconds | **Hook Type:** Education / Curiosity
 **Audience:** Direct to man | **Topic:** Nutrition / sexual vitality
 
-Nobody talks about this, so I will.
+Nobody in the wellness world is connecting these dots clearly, so let me do it.
 
-Inflammatory foods — processed oils, excess sugar, alcohol — create systemic inflammation.
+Inflammatory foods — processed oils, excess sugar, alcohol — create systemic inflammation in the body.
+
 And inflammation is the enemy of sensation.
 
 It dulls nerve endings.
 It flattens arousal response.
-It makes pleasure feel like it's happening through a layer of gauze.
+It makes pleasure feel like it's happening through a layer of gauze — like you're almost there, but not quite.
 
-The men I work with who clean up their diet almost always report —
-without me even asking —
+The men I work with who clean up their nutrition almost always tell me — without me even asking —
 that sex got better.
 
 Not because they got thinner.
-Because they could *feel more.*
+Because they could actually FEEL more.
 
-Feed your pleasure.
+Feed your pleasure. What would you be willing to change this week?
+
+---
 
 ---
 
 ## SCRIPT 07 — "You Already Know How to Be an Incredible Partner"
 **Status:** `DRAFT`
-**Length:** ~20 seconds | **Hook Type:** Empowerment / Reminder
+**Length:** ~25 seconds | **Hook Type:** Empowerment / Direct
 **Audience:** Direct to man | **Topic:** Being an amazing partner
 
-You already have the capacity for deep love, radical presence, and profound generosity.
+Here's what I want you to know before we go any further.
+
+You already have the capacity for deep love, for real presence, for the kind of generosity that changes a woman's life.
 
 You didn't need me to give you that.
 
-Sometimes you just need someone to help you get out of your own way —
-to clear the old programs, the bad modeling, the "man up and stop needing things" conditioning —
+What I do is help you get out of your own way —
+to clear the old programs, the bad modeling, the years of "man up and stop needing things" —
 
-So what's actually in you can finally come *through.*
+So what's actually IN you can finally come THROUGH.
 
-That's the work I do.
+That's it. That's the whole project.
 And it changes everything.
+
+---
 
 ---
 
 ## SCRIPT 08 — "The Body Keeps the Score in Bed, Too"
 **Status:** `DRAFT`
-**Length:** ~25 seconds | **Hook Type:** Insight / Reframe
+**Length:** ~30 seconds | **Hook Type:** Honest / Somatic
 **Audience:** Direct to man | **Topic:** Somatic / sexual health
 
-Every experience you've had — every rejection, every shame spiral, every "not now" —
-lives somewhere in your body.
+Every rejection you've ever swallowed.
+Every shame spiral you white-knuckled your way through.
+Every "not now" that landed harder than she knew.
 
-And it shows up in intimacy.
+Those experiences live somewhere in your body.
 
-Not as a diagnosis. Not as a flaw.
-Just as patterns. Bracing. Disconnecting. Performing instead of feeling.
+And they show up in intimacy — not as a diagnosis, not as a flaw —
+just as patterns. Bracing. Checking out. Performing instead of actually feeling.
 
 You already know something is off.
-Your body has been trying to tell you for years.
+Your body has been trying to tell you, probably for years.
 
-What I do is help you listen — and rewrite it.
+What I do is help you listen — and then rewrite it.
 
 That's not woo. That's physiology.
+And it is absolutely available to you.
+
+---
 
 ---
 
 ## SCRIPT 09 — "What Actually Makes a Man Unforgettable in Bed"
 **Status:** `DRAFT`
-**Length:** ~30 seconds | **Hook Type:** Curiosity / Aspirational
+**Length:** ~30 seconds | **Hook Type:** Curiosity / Disrupt expectation
 **Audience:** Direct to man | **Topic:** Being an amazing lover
+
+I work with a lot of women. And I ask them about this.
 
 It's not technique.
 It's not size. It's not stamina.
 
-The men women describe as *extraordinary* lovers all have one thing in common:
+The men they describe as extraordinary lovers — the ones they genuinely can't stop thinking about —
+all have one thing in common:
 
 They pay attention.
 
 They track breath, temperature, stillness, tension.
 They ask — sometimes out loud, sometimes without words.
-They're not performing. They're *communing.*
+They're not performing. They're communing.
 
-That kind of attentiveness?
-It's a skill. It's a practice. It's something you can actually develop.
+That attentiveness? It's a skill. It's something you can actually develop — with intention.
 
-And when you do — she'll know.
+And when you do? She'll know.
 And she'll never stop telling people.
+
+---
 
 ---
 
@@ -206,41 +238,49 @@ And she'll never stop telling people.
 **Length:** ~25 seconds | **Hook Type:** Practical / Surprising
 **Audience:** Direct to man | **Topic:** Sexual vitality / breathwork
 
-Most men hold their breath during sex.
+Most men hold their breath during sex. Did you know that?
 
 And holding your breath shuts down sensation,
-creates tension in your pelvis,
-and disconnects you from your body — right when you need to be in it most.
+creates tension in the pelvis,
+and disconnects you from your body — right when you most need to be in it.
 
-Deep, intentional breathing?
-Expands sensation. Delays climax. Grounds you in your body.
+Deep, intentional breathing expands sensation.
+It delays climax.
+It keeps you grounded and present instead of rushing toward a finish line.
 
-Tantric traditions have known this for thousands of years.
-Science is catching up.
+Tantric traditions have mapped this for thousands of years.
+Neuroscience is catching up.
 
-Your breath is a tool.
-Start using it.
+Your breath is a tool — and it's free.
+
+Try it tonight and tell me what you notice.
+
+---
 
 ---
 
 ## SCRIPT 11 — "What Women Wish Men Asked More Often"
 **Status:** `DRAFT`
-**Length:** ~20 seconds | **Hook Type:** POV / Insight
+**Length:** ~20 seconds | **Hook Type:** POV / Intimate
 **Audience:** Direct to man | **Topic:** Being a great partner / communication
 
-After years of working with women —
+After years of working with women — and I mean thousands of hours of conversation —
 
-Here's what I hear over and over again:
+Here's what comes up over and over again:
 
-*"I wish he asked me what I actually wanted. Not assumed. Not guessed. Asked."*
+*"I wish he asked me what I actually wanted. Not assumed. Not guessed based on what worked before. Asked."*
 
 Not because women need you to be a mind reader.
-Because the *asking* itself is an act of care.
 
-You already care.
-Sometimes it's just about saying it out loud.
+Because the asking itself IS the intimacy.
+The asking says: your experience is the point. Not just your tolerance.
 
-Try it tonight.
+You already care about her.
+This is just about saying it — out loud, in bed, in the moment.
+
+Try it tonight. What do you have to lose?
+
+---
 
 ---
 
@@ -266,6 +306,8 @@ I just want to learn together.
 
 ---
 
+---
+
 ## SCRIPT 13 — "The Private Retreat Men Never Knew They Needed"
 **Status:** `DRAFT`
 **Length:** ~35 seconds | **Hook Type:** Curiosity / Experience
@@ -287,6 +329,8 @@ Because you finally gave yourself the space to get honest.
 
 That's a private retreat with me.
 And it will stay with you.
+
+---
 
 ---
 
@@ -316,6 +360,8 @@ Just real conversation that changes things.
 
 ---
 
+---
+
 ## SCRIPT 15 — "What Couples Get From a Retreat That They Can't Get Anywhere Else"
 **Status:** `DRAFT`
 **Length:** ~40 seconds | **Hook Type:** Aspirational / Experiential
@@ -337,6 +383,8 @@ A way of navigating conflict that doesn't blow the lid off.
 And usually — an erotic reconnection they weren't expecting.
 
 This is the work.
+
+---
 
 ---
 
@@ -362,22 +410,31 @@ Can we look at it together?
 
 ---
 
+---
+
 ## SCRIPT 17 — "You Don't Need to Earn the Right to Want More"
 **Status:** `DRAFT`
-**Length:** ~20 seconds | **Hook Type:** Permission / Empowerment
+**Length:** ~25 seconds | **Hook Type:** Permission / Tender
 **Audience:** Direct to man | **Topic:** Intimacy / permission
 
-A lot of the men I work with come to me after years of telling themselves:
+So many of the men I work with arrive after years — sometimes decades — of quietly telling themselves:
 
-*"I shouldn't need this much. I should be fine. I should want less."*
+*"I shouldn't need this much."*
+*"I should be fine."*
+*"Wanting this much is selfish."*
 
 And that suppression shows up everywhere.
-In flat relationships. In disconnected sex. In a vague feeling that life is a little… smaller than it should be.
+In flat sex. In disconnected partnerships. In a vague, persistent feeling that life is a little... smaller than it's supposed to be.
+
+Here's what I want you to hear:
 
 You're not asking for too much.
 You're asking for what's real.
 
-Let's go get it.
+And there's a version of your life where you actually get it.
+Let's build that.
+
+---
 
 ---
 
@@ -387,39 +444,45 @@ Let's go get it.
 **Audience:** Direct to man | **Topic:** Intimacy coaching
 
 Sex is an event.
-Intimacy is a *climate.*
+Intimacy is a climate.
 
-You can have incredible sex with little intimacy.
-You can have deep intimacy with very little sex.
+You can have extraordinary sex with very little real intimacy.
+You can have profound intimacy without much sex at all.
 
-But when you have both?
-That's when a relationship becomes a place someone never wants to leave.
+But when you have both —
+when someone feels KNOWN by you, and still fully desired by you —
+that's when a relationship becomes a place no one wants to leave.
 
-Most men focus entirely on the event.
+Most men I meet are focused almost entirely on the event.
+
 The men I work with learn to create the climate.
 
-That's a completely different — and far more powerful — skill set.
+Which one are you working on right now?
+
+---
 
 ---
 
 ## SCRIPT 19 — "The Question That Changes Everything in Bed"
 **Status:** `DRAFT`
-**Length:** ~20 seconds | **Hook Type:** Practical / Insight
+**Length:** ~20 seconds | **Hook Type:** Practical / Direct
 **Audience:** Direct to man | **Topic:** Being a great lover
 
-Most men never ask it.
+Here's a question most men never ask.
 
 *"What would feel incredible for you right now?"*
 
 Not "is this okay." Not "do you like that."
-What would feel *incredible.*
 
-It's an invitation. It's presence. It tells her her pleasure is the point —
-not just her tolerance.
+What would feel INCREDIBLE.
 
-That question — consistently, genuinely — changes the whole dynamic.
+It's an invitation. It's presence. It's telling her — without a speech — that her pleasure is the point, not just her comfort or her cooperation.
 
-Try it and see what happens.
+That one question, asked consistently and genuinely, changes the whole dynamic between you.
+
+Are you asking it?
+
+---
 
 ---
 
@@ -428,70 +491,85 @@ Try it and see what happens.
 **Length:** ~30 seconds | **Hook Type:** Social proof / Reframe
 **Audience:** Direct to man | **Topic:** Coaching / normalize
 
-The men in my practice are not struggling.
+I want to clear something up because I hear this a lot.
 
+The men in my practice are not struggling.
 They're not broken. They're not in crisis.
 
-They're the ones who have already done enough work to know how much further they could go.
+They're the ones who have already done enough inner work to know — clearly — how much further they could go.
 
-They're the ones who looked at their relationships and said:
-*"This is good — but I know it could be extraordinary."*
+They looked at their relationships and thought:
+*"This is good. But I know it could be extraordinary."*
 
-They're the ones who aren't willing to just coast.
+And they were unwilling to just coast on "good."
 
-If that's the frequency you're operating at?
+If that's the level you're operating at —
+
+If you're already growth-oriented, already self-aware, already asking questions most men won't even sit with —
 
 We should talk.
 
 ---
 
+---
+
 ## SCRIPT 21 — "New to Poly? Here's the First Thing to Get Right"
 **Status:** `DRAFT`
-**Length:** ~30 seconds | **Hook Type:** Practical / Direct
+**Length:** ~30 seconds | **Hook Type:** Direct / Practical
 **Audience:** Direct to man | **Topic:** New to polyamory
 
 Before you open your relationship —
+before you download the apps, write the profile, or have the first conversation with a new person —
 
-Before you download the apps, before you write the profile —
-the most important work you can do is this:
+Do this one thing first.
 
-Know your *why.*
+Get really honest about your WHY.
 
-Not the story you tell her. Not the fantasy you've been holding.
-Your actual, honest *why.*
+Not the story you'll tell her. Not the fantasy you've been holding.
+Your actual, private, honest why.
 
-Because if you open your relationship from a place of avoidance —
-avoiding a hard conversation, avoiding boredom, avoiding intimacy —
-you will import that avoidance into every new connection.
+Because if you're opening from a place of avoidance —
+avoiding a hard conversation, avoiding boredom, avoiding real intimacy —
+you WILL import that avoidance into every new connection.
 
-But if you open from a place of courage and honesty?
+But if you open from courage and genuine desire for more love, more honesty, more aliveness?
 
 Everything becomes possible.
+
+What's your honest why?
+
+---
 
 ---
 
 ## SCRIPT 22 — "The Hardest Part of Polyamory Nobody Warns You About"
 **Status:** `DRAFT`
-**Length:** ~35 seconds | **Hook Type:** Honest / Reframe
+**Length:** ~35 seconds | **Hook Type:** Honest / Subvert expectation
 **Audience:** Direct to man | **Topic:** New to polyamory
 
-People think the hardest part of polyamory is jealousy.
+Everyone thinks the hardest part of polyamory is jealousy.
 
-It's not jealousy.
-Jealousy is just a feeling — and feelings can be worked with.
+It's not.
 
-The hardest part?
+Jealousy is just a feeling. And feelings can be worked with — they're actually good information, once you stop running from them.
 
-Is that open relationships make you *completely accountable to yourself.*
+The hardest part of open relationships is this:
 
-There's nowhere to hide.
+They make you completely accountable to yourself.
+
+There is nowhere to hide.
+
 Every avoidance pattern surfaces.
-Every attachment wound shows up.
-Every unspoken need you've been outsourcing to your partner?
-Now you have to meet it — consciously, deliberately.
+Every attachment wound becomes visible.
+Every unspoken need you've been quietly outsourcing to your partner?
+Now you have to meet it — consciously, on purpose.
 
 It's the most demanding personal development path I know.
-And when it's done right, it's also the most free.
+
+And when it's done with integrity and real self-awareness?
+It's also the most free.
+
+---
 
 ---
 
@@ -516,25 +594,29 @@ That feels like something we're both actually built for.
 
 ---
 
+---
+
 ## SCRIPT 24 — "What Polyamory Has Taught Me About Monogamy"
 **Status:** `DRAFT`
-**Length:** ~30 seconds | **Hook Type:** Insight / Flip
+**Length:** ~30 seconds | **Hook Type:** Insight / Unexpected angle
 **Audience:** Direct to man | **Topic:** ENM / broader love philosophy
 
-I've worked with polyamorous people for years.
-And here's the thing they'll tell you —
+Something I've watched happen again and again with clients who've explored ENM —
 
-ENM makes you a better monogamous partner if you ever return to it.
+Even if they return to monogamy, they're completely different partners.
 
-Because you learn to communicate everything.
-You learn to stop assuming your partner knows what you want.
-You learn that love isn't zero sum.
+Because ENM forced them to communicate everything.
+To stop assuming their partner could read their needs.
+To understand — in their bones — that love is not zero sum.
 
-You learn that a thriving relationship takes *intentionality* — every single day —
-not just a promise you made once.
+And to realize that a thriving relationship doesn't run on autopilot.
+It takes intentionality. Every single day.
 
-That's wisdom that belongs to everyone.
-Not just the poly community.
+That wisdom doesn't belong only to the poly community.
+
+It belongs to anyone who wants a love that actually lasts — and keeps growing.
+
+---
 
 ---
 
@@ -544,21 +626,25 @@ Not just the poly community.
 **Audience:** Direct to man | **Topic:** New to polyamory / jealousy
 
 If you're exploring non-monogamy and jealousy showed up —
-I want you to hear this:
+please hear this before you decide it means something catastrophic:
 
 Your jealousy is not evidence that you can't do this.
+It's evidence that you're human. And that you love someone.
 
-It's evidence that you're *human.*
+Every person who has ever loved deeply has felt jealousy.
 
-Every single person who has ever loved someone has felt jealousy.
-The difference in ENM is you don't get to outsource the feeling.
+The difference in ENM is that you don't get to outsource the feeling or use it as a weapon.
+You have to get curious about it.
 
-You have to get curious.
-You have to ask: what is this pointing to?
+Ask: what is this actually pointing to?
 
-And then you have to have the conversation.
+A fear that you're not enough?
+A need that hasn't been named?
+An agreement that needs to be revisited?
 
-That's the whole game.
+That curiosity — that's the whole game.
+
+---
 
 ---
 
@@ -583,45 +669,57 @@ All of it.
 
 ---
 
+---
+
 ## SCRIPT 27 — "Cold Water and Testosterone — Let's Talk"
 **Status:** `DRAFT`
-**Length:** ~20 seconds | **Hook Type:** Practical / Curiosity
+**Length:** ~25 seconds | **Hook Type:** Practical / Energizing
 **Audience:** Direct to man | **Topic:** Sexual vitality / clean lifestyle
 
-Cold showers are having a moment — and for good reason.
+Cold exposure is having a moment — and I want to tell you WHY it matters beyond just the badge of honor.
 
-Cold exposure spikes norepinephrine.
-It trains your nervous system to return to baseline faster under stress.
-It builds something that sounds intangible but isn't:
+Cold water spikes norepinephrine.
+It trains your nervous system to return to baseline faster after stress.
+And over time, it builds a quality that is genuinely hard to fake:
 
-Mental toughness.
+The ability to choose discomfort deliberately — and breathe through it — without checking out.
 
-The man who can choose discomfort deliberately —
-and breathe through it —
-is a man who has authority over his own nervous system.
+That's authority over your own nervous system.
 
-That shows up everywhere.
-Including in bed.
+And that quality? That groundedness under pressure?
+
+It shows up everywhere.
+In how you lead. In how you love. In how present you can actually be in bed.
+
+Are you doing it? How long?
+
+---
 
 ---
 
 ## SCRIPT 28 — "Movement as Medicine for Your Sex Life"
 **Status:** `DRAFT`
-**Length:** ~25 seconds | **Hook Type:** Practical / Empowering
+**Length:** ~25 seconds | **Hook Type:** Reframe / Practical
 **Audience:** Direct to man | **Topic:** Fitness / sexual vitality
 
+I want you to stop thinking about your workouts as separate from your sex life.
+
+They're not separate. They're the infrastructure of it.
+
 Resistance training increases testosterone.
-Yoga and breathwork increase body awareness.
-Cardiovascular fitness increases stamina and blood flow.
+Yoga and breathwork increase body awareness and sensation.
+Cardiovascular fitness increases stamina, blood flow, and the capacity to stay present.
 
-These are not separate things from your sex life.
-They ARE your sex life — the infrastructure of it.
+The most vital, embodied, genuinely present lovers I know?
 
-The men who are the most vital, embodied lovers I know?
-They move. Every day. Intentionally.
+They move their bodies — intentionally, every day.
 
-Not to look good.
-Because they understand that a body in motion is a body that can *feel.*
+Not to look good for her.
+Because they understand that a body in motion is a body that can actually FEEL.
+
+That's the real ROI.
+
+---
 
 ---
 
@@ -653,26 +751,34 @@ I'm here.
 
 ---
 
+---
+
 ## SCRIPT 30 — "You Can't Out-Technique a Disconnected Nervous System"
 **Status:** `DRAFT`
-**Length:** ~25 seconds | **Hook Type:** Reframe / Challenging
+**Length:** ~25 seconds | **Hook Type:** Direct / Challenging
 **Audience:** Direct to man | **Topic:** Sexual presence / intimacy
 
-Men spend a lot of time learning *technique.*
+Men spend so much time looking for better technique.
 
-How to last longer. How to touch her. What to say.
+How to last longer. How to touch her better. What to say. What to do next.
 
 And then they bring all that knowledge to bed —
 and their nervous system is running on cortisol and screen addiction and unprocessed stress —
-and it doesn't matter what they know.
 
-The body doesn't lie.
+And none of it matters.
 
-The work I do gets to the *root* —
-not so you know more things,
-but so you can actually *be there.*
+The body doesn't lie. She feels it immediately.
 
-Technique matters. Presence matters more.
+The work I do gets underneath technique.
+Not so you know more things —
+but so you can actually BE there.
+
+Technique matters.
+Presence matters more.
+
+What are you currently doing to train your presence?
+
+---
 
 ---
 
@@ -699,6 +805,8 @@ And it is absolutely something you can develop.
 
 ---
 
+---
+
 ## SCRIPT 32 — "SEND TO HIM — What I Mean When I Say I Want More"
 **Status:** `DRAFT`
 **Length:** ~25 seconds | **Hook Type:** Send-to-him / Communication
@@ -722,25 +830,34 @@ That's why I keep asking.
 
 ---
 
+---
+
 ## SCRIPT 33 — "On Alcohol and Intimacy — Nobody's Saying This"
 **Status:** `DRAFT`
-**Length:** ~25 seconds | **Hook Type:** Provocative / Honest
+**Length:** ~25 seconds | **Hook Type:** Honest / Brave
 **Audience:** Direct to man | **Topic:** Clean lifestyle / sexual health
 
-Most men are using alcohol to have sex.
-To lower inhibition. To stop performing. To get out of their head.
+I'm going to say something most people in this space won't.
 
-I understand that.
+A lot of men are using alcohol to have sex.
 
-But here's what alcohol is actually doing:
+To lower the inhibition. To stop performing. To get out of their head long enough to actually connect.
+
+I understand that. I genuinely do.
+
+But here's what alcohol is actually doing in the body:
 It numbs sensation.
-It blocks presence.
-And over time, it trains you to believe you can't be intimate without it.
+It blocks real presence.
+And over time, it quietly teaches you that you can't be intimate without it.
 
-The men I work with who go sober or sober-ish?
-They're stunned by what they were missing.
+The men I work with who go sober — or even just sober-ish — are almost always stunned by what they'd been missing.
 
-Real sensation. Real connection. Real you.
+Real sensation. Real connection.
+The actual you, meeting the actual her.
+
+Is this something you've noticed in yourself?
+
+---
 
 ---
 
@@ -768,30 +885,37 @@ Because what they gain is so much better.
 
 ---
 
+---
+
 ## SCRIPT 35 — "What Makes a Man Feel Safe to a Woman"
 **Status:** `DRAFT`
-**Length:** ~30 seconds | **Hook Type:** Insight / POV
+**Length:** ~30 seconds | **Hook Type:** Insight / POV from women
 **Audience:** Direct to man | **Topic:** Being a great partner
 
-Women talk to me about safety a lot.
-Not physical safety — emotional safety.
+Women talk to me about emotional safety constantly. And I want you to really understand what they mean.
 
-The feeling that she can *say the thing* —
-the uncomfortable thing, the vulnerable thing, the "I need more" thing —
+Not physical safety. Emotional safety.
+
+The felt sense that she can say the uncomfortable thing —
+the vulnerable thing, the "I need more from you" thing —
 and you won't shut down.
 
-Won't get defensive. Won't disappear.
-Won't punish her for having needs.
+Won't get defensive. Won't disappear for three days.
+Won't make her feel like she's too much for bringing it up.
 
-The men who create that?
+The men who create that climate?
 
-They don't do it by being agreeable.
-They do it by being *regulated.*
+They don't do it by being agreeable or endlessly accommodating.
+They do it by being REGULATED.
 
-By having worked enough on themselves that her feelings don't feel like a threat.
+By having worked on themselves enough that her big feelings don't feel like a personal attack.
 
 That's the man she can't stop talking about.
+That's the man she opens to — fully.
+
 And I help men become him.
+
+---
 
 ---
 
@@ -813,6 +937,8 @@ When you treat it as information rather than evidence of failure —
 everything changes.
 
 I've watched men completely transform this — at every age.
+
+---
 
 ---
 
@@ -845,24 +971,31 @@ That's what a private retreat with me is.
 
 ---
 
+---
+
 ## SCRIPT 38 — "She's Not Looking for Perfect — She's Looking for Real"
 **Status:** `DRAFT`
-**Length:** ~20 seconds | **Hook Type:** Permission / Reframe
+**Length:** ~20 seconds | **Hook Type:** Permission / Warm
 **Audience:** Direct to man | **Topic:** Being a great partner
+
+Just in case you needed to hear this today:
 
 You don't have to be perfect.
 
-You don't have to have it all figured out.
-You don't have to know exactly what to say in every hard moment.
+You don't have to have it figured out.
+You don't have to know exactly what to say in every hard or tender moment.
 
-You just have to be *real.*
+You just have to be REAL.
 
-Real acknowledgment. Real effort. Real willingness to show up even when it's uncomfortable.
+Real acknowledgment. Real effort. Real willingness to show up even when it's uncomfortable —
+especially when it's uncomfortable.
 
-That is — not a small thing to her.
-That is the *whole thing.*
+That is not a small thing to her.
+That is the whole thing.
 
-You're already capable of real.
+And you're already capable of real. I've never met a man who wasn't.
+
+---
 
 ---
 
@@ -889,28 +1022,32 @@ Can we talk about it?
 
 ---
 
+---
+
 ## SCRIPT 40 — "The Men Who Are Best at Love"
 **Status:** `DRAFT`
-**Length:** ~30 seconds | **Hook Type:** Aspirational / Empowerment
-**Audience:** Direct to man | **Topic:** General coaching / being a great partner
+**Length:** ~30 seconds | **Hook Type:** Aspirational / Empowering
+**Audience:** Direct to man | **Topic:** General / being a great partner
 
 The men who are the best at love?
 
-They're not the ones who never struggled.
+They're not the ones who had it easy.
+They're not the ones who were naturally gifted at it.
 
-They're the ones who stopped pretending the struggle wasn't there —
-who looked at the patterns honestly
-and decided those patterns didn't have to define the rest of their lives.
+They're the ones who got honest enough to look at their patterns —
+to really look —
+and decided those patterns did not have to define the rest of their lives.
 
-They asked for help.
-They did the uncomfortable work.
-They showed up differently —
-and then kept showing up.
+They asked for support. They did the uncomfortable work.
+They showed up differently — and then kept showing up.
 
-Your capacity for love is not in question.
+Your capacity for love is not in question. I promise you that.
+
 Your willingness to grow into it — that's the only variable.
 
 And you're already here. Which tells me something.
+
+---
 
 ---
 
@@ -919,22 +1056,24 @@ And you're already here. Which tells me something.
 **Length:** ~30 seconds | **Hook Type:** Insight / Reframe
 **Audience:** Direct to man | **Topic:** Relationships / attraction
 
-That feeling of *chemistry* you either have with someone or you don't?
+That feeling of chemistry — the electric "yes" you either have with someone or you don't?
 
-It's not magic.
+It's not magic. It's not random.
 
-It's two nervous systems responding to each other.
+It's two nervous systems recognizing each other.
 
-And here's what nobody tells you:
-Your nervous system state affects what you're attracted to.
+And here's the part most men haven't heard yet:
+Your nervous system STATE affects what you're even attracted to.
 
 A man running on chronic stress and cortisol?
-He's often drawn to relationships that feel exciting because they feel *unsafe.*
+He often gravitates toward relationships that feel exciting because they feel a little unsafe.
+The push-pull. The highs and lows. The constant uncertainty.
 
-A regulated man — someone who has done the work?
-He starts to be attracted to something deeper. Steadier. More real.
+A regulated man — someone who has genuinely done the inner work?
+He starts to feel attracted to something steadier. Deeper. More real.
 
 That shift is available to you.
+And it changes everything downstream.
 
 ---
 
@@ -966,6 +1105,8 @@ Profoundly better.
 
 ---
 
+---
+
 ## SCRIPT 43 — "On Choosing the Right Coach — and the Wrong One"
 **Status:** `DRAFT`
 **Length:** ~30 seconds | **Hook Type:** Honest / Contrarian
@@ -983,6 +1124,8 @@ Not someone who is subtly building a dependency on their insight.
 The right coach makes themselves less necessary over time — not more.
 
 I ask these questions of myself. You should ask them of anyone you work with.
+
+---
 
 ---
 
@@ -1009,6 +1152,8 @@ He's just waiting for you to give him permission to show up.
 
 ---
 
+---
+
 ## SCRIPT 45 — "SEND TO HIM — For the Man Who Leads With Love"
 **Status:** `DRAFT`
 **Length:** ~20 seconds | **Hook Type:** Send-to-him / Celebratory
@@ -1025,6 +1170,8 @@ I want you to know — I notice that.
 It's one of the things I love most about you.
 
 Keep going. I'm right here.
+
+---
 
 ---
 
@@ -1054,6 +1201,8 @@ Let's work on that.
 
 ---
 
+---
+
 ## SCRIPT 47 — "Your Sexual Energy Is Your Creative Energy"
 **Status:** `DRAFT`
 **Length:** ~25 seconds | **Hook Type:** Reframe / Aspirational
@@ -1072,6 +1221,8 @@ Men who optimize their sexual health aren't just better lovers.
 They're sharper thinkers. Bolder leaders. More alive humans.
 
 That's what this work is actually for.
+
+---
 
 ---
 
@@ -1104,6 +1255,8 @@ Start here.
 
 ---
 
+---
+
 ## SCRIPT 49 — "The Part of You That Knows How to Love"
 **Status:** `DRAFT`
 **Length:** ~25 seconds | **Hook Type:** Empowerment / Closing
@@ -1121,6 +1274,8 @@ He's not a future version of you.
 He's already in you.
 
 My job is just to help you find the path back.
+
+---
 
 ---
 
