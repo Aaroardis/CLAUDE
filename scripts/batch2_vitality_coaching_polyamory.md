@@ -31,24 +31,25 @@ And when you're ready to make a comprehensive plan to optimizing your body for t
 ---
 
 ## SCRIPT 02 — "What She Notices That You Can't See"
-**Status:** `DRAFT`
-**Length:** ~30 seconds | **Hook Type:** Curiosity / Insight
+**Status:** `READY`
+**Length:** ~35 seconds | **Hook Type:** Insight / Honest question
 **Audience:** Direct to man | **Topic:** Being an amazing lover / presence
 
-Women don't just feel your body.
-They feel your *nervous system.*
+She is reading you in bed — far more accurately than you know.
 
-The quality of your breath.
-Whether you're actually HERE — or whether part of you already left.
-Whether you're tracking her, or just doing what you learned.
+She's feeling your level of focus on her experience, or your distraction.
+She's feeling your hungry lust — or your sincere love — in your eyes.
+She's feeling whether you're performing masculinity or power or sexual mastery — or actually grounded in those things.
 
-The men who are unforgettable in bed?
-They're not performing.
-They're *present.*
+So... how does that make you feel?
 
-And presence is a practice — not a personality trait.
-You can train this.
-That's literally what I help men do.
+Insecure? Concerned? Confident? Eager to move with more honesty and sincerity?
+
+Whatever you feel — it's good information.
+
+As an intimacy and relationship coach, I just want you to practice presence. I want you to know it's a skill you can hone — with intention. And I need you to know it MATTERS to her.
+
+If you're ready to show up clear, strong, loving, and present — I can show you how.
 
 ---
 
