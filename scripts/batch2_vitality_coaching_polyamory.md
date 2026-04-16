@@ -10,24 +10,23 @@
 ---
 
 ## SCRIPT 01 — "The Real ROI of Sexual Health"
-**Status:** `DRAFT`
-**Length:** ~25 seconds | **Hook Type:** Reframe / Aspirational
+**Status:** `READY`
+**Length:** ~40 seconds | **Hook Type:** Honest question / Aspirational
 **Audience:** Direct to man | **Topic:** Men's sexual vitality / clean lifestyle
 
-You already know that sleep, movement, and clean eating change your body.
+Honestly... are you optimizing your body for the bedroom?
 
-What most men don't track yet?
+Because that's a different project than trying to look great at the gym.
 
-How all of that lands *in the bedroom.*
+It's about being aware of your sleep, your nutrition, your exercise and rest, your stress levels — as well as your joy and calm. All of these ARE affecting how alive you feel in bed.
 
-Cortisol tanks your libido. Chronic inflammation flattens your orgasms. Poor sleep tanks your testosterone — quietly, invisibly, over months.
+Cortisol tanks your libido. Chronic inflammation flattens your orgasms by reducing sensation in the nerves. Poor sleep quietly reduces your testosterone — over months, without you even noticing.
 
-The men who are extraordinary lovers?
+The men who are the MOST extraordinary lovers aren't doing anything mystical... but they ARE treating their bodies like precision instruments, and like precious vessels for human experience.
 
-They're not doing anything mystical.
-They're just treating their nervous system like the precision instrument it is.
+Here's just ONE thing you can do today to show up as a better lover: get adequate sleep.
 
-That starts with you — and it starts now.
+And when you're ready to make a comprehensive plan to optimizing your body for the bedroom — as well as your whole self — you know where to find me.
 
 ---
 
