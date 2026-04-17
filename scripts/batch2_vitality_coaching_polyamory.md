@@ -1145,3 +1145,98 @@ His partner feels it. His children feel it. His friends feel it. The quality of 
 I've watched men leave this work and go home and say things they'd needed to say for years. Apologize for things they'd been holding onto at enormous cost to themselves and everyone around them. Cry in front of the woman they love and discover that she wasn't frightened by it — she'd been waiting for it.
 
 That ripple is why I'm here. It's the most worthwhile thing I know how to do.
+
+---
+
+## SCRIPT 51 — "We Are in the Middle of a Relationship Revolution"
+**Status:** `DRAFT`
+**Length:** ~35 seconds | **Hook Type:** Big vision / Cultural
+**Audience:** Direct to man | **Topic:** Future of love / cultural moment
+
+I want to say something I believe with complete conviction, and I want you to really hear it:
+
+We are in the middle of a revolution in modern relationships — and most people are so busy managing their own love lives that they haven't stepped back far enough to see it.
+
+For generations, partnership was built on roles, rules, and the approval of authorities — on past and precedent rather than on what two actual humans genuinely need from each other in order to thrive.
+
+That model is breaking down. Not because people stopped caring about love — because they started caring about it more honestly than the inherited structures could hold.
+
+The men I work with are at the leading edge of this. They're not just trying to be better partners. They're re-authoring what it means to be a man in love — and that work ripples out far beyond their own relationships.
+
+That's the project. And it matters enormously.
+
+---
+
+## SCRIPT 52 — "Pleasure Is Not Indulgent. It's Intelligent."
+**Status:** `DRAFT`
+**Length:** ~30 seconds | **Hook Type:** Provocative reframe / Cultural
+**Audience:** Direct to man | **Topic:** Pleasure / erotic evolution / future of love
+
+Here's a reframe that I find genuinely changes things for the men I work with, and I want to offer it to you directly:
+
+Pleasure is not indulgent. It is intelligent.
+
+It is a source of self-knowledge, of creative energy, of truth about what you actually want and what you're ready to release — and in a culture that has systematically taught men to suppress, perform, and manage their erotic lives rather than actually inhabit them, reclaiming your relationship to pleasure is not a luxury.
+
+It's a revolutionary act.
+
+The men who do this work — who get honest about what they want, what they feel, what their bodies are actually telling them — don't just become better lovers. They become more alive in every domain of their lives.
+
+Pleasure is your birthright. And it's also your genius, if you're willing to pay attention to it.
+
+---
+
+## SCRIPT 53 — "The Relationship Model You Inherited Was Not Designed for You"
+**Status:** `DRAFT`
+**Length:** ~35 seconds | **Hook Type:** Challenging / Cultural
+**Audience:** Direct to man | **Topic:** Re-authoring love / modern masculinity
+
+The relationship model most men are trying to live inside was not designed with their full humanity in mind.
+
+It was designed for a different era, by different pressures, to serve structures that had very little to do with what either partner actually needed in order to feel genuinely alive, genuinely known, genuinely free.
+
+And yet most men are spending enormous amounts of energy trying to make themselves fit a container that was never actually built for them — and then wondering why something feels persistently, inexplicably off.
+
+What I do is help men stop trying to retrofit themselves into a model that doesn't fit, and start asking the more interesting and more honest question: what does love actually look like when you design it from scratch, from your real values, your real desires, your real understanding of what both you and the people you love actually need?
+
+That question is where the future of love begins. And it begins with you.
+
+---
+
+## SCRIPT 54 — "Healed Masculinity Is Not Soft. It's Sovereign."
+**Status:** `DRAFT`
+**Length:** ~30 seconds | **Hook Type:** Provocative / Empowering
+**Audience:** Direct to man | **Topic:** Modern masculinity / healed masculine
+
+I want to address something directly, because I think there's a misunderstanding floating around conversations about masculine healing that does a real disservice to the men who are doing this work.
+
+Healing your relationship to emotion, to intimacy, to your own needs and desires — this is not a softening process. It is a sovereign one.
+
+The man who has done this work is not less powerful than the man who hasn't. He is more present, more clear, more able to lead from genuine conviction rather than from fear of what happens if he stops performing.
+
+He has authority over his own inner life — which means he can actually be trusted with someone else's.
+
+That is the healed masculine as I understand it and as I work with it every day — and I want to be very clear that it is one of the most powerful and attractive things a man can cultivate.
+
+---
+
+## SCRIPT 55 — "Custom-Crafted Love"
+**Status:** `DRAFT`
+**Length:** ~35 seconds | **Hook Type:** Vision / Aspirational
+**Audience:** Direct to man | **Topic:** Future of love / bespoke relationships
+
+Here's a question I love to ask the men I work with, because the answers are almost always revelatory:
+
+If you were designing your love life from scratch — not inheriting the model your parents had, not defaulting to what culture told you a relationship is supposed to look like, not outsourcing those decisions to habit or fear or what seems easiest — what would you actually build?
+
+What would the partnership look like? What would the agreements be? What would you need in order to feel genuinely alive, genuinely present, genuinely free inside of a deep commitment to another human being?
+
+These are not indulgent questions. They are the most important questions available to a man who wants to love well and be loved well in return.
+
+The future of love is consciously created — not inherited, not managed, not settled for.
+
+And you get to be an author of it. That's not a small thing. That's everything.
+
+---
+
+*— Scripts by @aaroardis | aaroardis.com*
