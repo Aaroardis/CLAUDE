@@ -32,6 +32,7 @@ Before any task, Claude must:
 | `MEMORY.md` | This file — read at start of every session |
 | `ABOUT_ME.md` | Aaro's bio, credentials, offerings, pricing — sourced from aaroardis.com archive (March 2026) |
 | `scripts/polyamory_ENM_basics.md` | Script batch 1 — Polyamory/ENM basics, male audience, all platforms. Includes send-to-him variants on scripts 03, 04, 05, 08, 11, 12 |
+| `SCRIPT_WRITING_ROADMAP.md` | **READ THIS before writing any scripts.** Complete 11-step production guide: sentence architecture, hook types, topic reference, what Aaro actually says about each topic, what to avoid, batch discipline, three-channel distinctions. Supersedes needing to repeat corrections. |
 | `AARO_VOICE_REFERENCE.md` | **READ THIS before writing any scripts or content.** Extracted language, openers, closers, texture words, empowerment framing, avoid list — compiled from session insights and Aaro's direct edits. Faster than re-reading all session PDFs. |
 | `SOCIAL_MEDIA_STRATEGY.md` | Nova's strategy notes from April 3, 2026 in-person meeting — platform roles, content formats, engagement tactics, goals |
 | `scripts/batch2_vitality_coaching_polyamory.md` | Script batch 2 — 50 scripts: men's sexual vitality, clean lifestyle, being an amazing lover/partner, private retreats & coaching, new to polyamory, send-to-him variants. All status: DRAFT. Generated April 16, 2026. |
