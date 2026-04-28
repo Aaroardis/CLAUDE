@@ -226,3 +226,28 @@ Learned from her personal edit of the Skirt Club EYTB workshop proposal (March 3
 * Tara Brach and Thich Nhat Hanh recommended by name with specific talk titles and platforms (Spotify, YouTube, tarabrach.com)
 * Real clickable links included where relevant
 * OMGYes and Urban Tantra are Aaro's standard resource recommendations for intimacy — include in most men's session documents
+
+
+---
+
+## BELLA'S TRACK — Added April 2026
+
+A second content and income track separate from Aaro's coaching brand. Fully siloed.
+
+**Persona:** Bella — sex coach, your voice, luxury/travel visual aesthetic, no-face or AI actress format TBD.
+**Platforms:** IG + TikTok (discovery) → OnlyFans (monetization)
+**Products:**
+- Ebook: *Better Sex Guaranteed. You're Welcome.* — 10 tips, very explicit, seductive tone, PDF generated and ready
+- OnlyFans Audios: "Level Up Your Sex Life", "Self Talk for Sexy Studs", "Self Love for Calling in Love" — 8–12 min each, scripts complete
+- Social scripts: 5 final reference scripts locked in `scripts/bella_track.md`
+
+**Voice rules (model all future Bella scripts on these):**
+- Opens with "Ok stud."
+- One real, specific, sensory tip per script
+- Emotional contrast: sweet + affirming → gently challenging → empowering
+- CTA before "You're welcome." — desire-based, never fear-based
+- Closes: "You're welcome." or "And… You're welcome."
+- Platform-safe, 40–55 seconds, no filler
+
+**Repo files:**
+- `scripts/bella_track.md` — final social scripts + voice notes
