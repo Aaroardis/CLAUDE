@@ -91,3 +91,14 @@ You're welcome.
 - Closes with "You're welcome." or "And… You're welcome."
 - Platform-safe: suggestive but never explicit
 - Timing: 40–55 seconds, tight, no filler
+
+---
+
+## SCRIPT 06 — Be Real
+⏱ *~45 seconds*
+
+Ok Stud. Stop "performing" in bed - like, drop that macho vibe, drop the ego that keeps telling you to act like you're sooo cool, stop flexing your muscles, and stop trying to ACT like you're in charge of her. Because women can tell when you're not authentic. Being real - feeling your feels and feeling HER feels - isn't weakness — it's hot. Don't TRY to be manly. Just be a man. Ok? You should be proud of who YOU are. I know it's hard to take the advice but… You're doing a really good job.
+
+If you want to be even better… for her…. For the women… get my playbook and listen to my audios ok? I made them for you.
+
+You're welcome.
