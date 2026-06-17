@@ -1,50 +1,52 @@
 # Aaro Ardis — Voice Guidelines V2
 *A practical guide to writing in Aaro's voice*
-*Compiled from script analysis (batch2_vitality_coaching_polyamory.md) contrasted with email draft failures, June 2026*
+*Compiled from: session insight PDFs, social scripts PDF, playshop docs, website copy (aaroardis.com)*
+*Hierarchy: PDFs > Website > Claude-generated scripts (batch2, ENM basics — low weight)*
 *Previous version archived at: archived/AARO_VOICE_REFERENCE_V1.md*
 
 ---
 
 ## 1. Sentence Rhythm
 
-Aaro's sentences accumulate. Ideas build through subordinate clauses before landing. The macro rhythm is: **long → longer → short declarative as a landing line.**
+Aaro's primary rhythm is **long accumulating clauses → short declarative landing line.** Ideas build through subordinate clauses before landing. The short declarative exists only at the end of a buildup — never as the primary mode.
 
-The short declarative exists only at the end of a buildup — never as the primary mode of writing.
-
-**Right:**
+**Right (from session docs):**
 > "Every rejection you ever quietly swallowed, every moment of shame you white-knuckled your way through, every 'not now' that landed harder than she knew — those experiences don't disappear when the moment passes. They settle somewhere in the body, and they show up in intimacy as patterns: a tendency to brace, or to check out, or to perform the idea of presence rather than actually inhabiting it."
 
-**Wrong (AI-pattern):**
-> "You showed up. You kept showing up. You've been honest in the room."
+**Right (from website):**
+> "Whether you're thinking about opening your marriage to get the sexual spark back or you're curating a complex, conscious circle of paramours, you'll want to build strong relational foundations that allow you and your polycule to feel safe and sexy."
 
-Three short sentences in a row reads as fragmented and AI-generated — motivational poster energy, not a real person talking.
+**Wrong (Claude's default staccato bias):**
+> "Malibu. Ojai. Joshua Tree. Los Angeles. We go deep." — Short sentences clustered for rhythm without earning it.
 
-**Rule:** Never write three short declarative sentences in a row. If you find it happening, merge them into a clause-rich sentence and break only the final thought out as a landing line.
+**The rule:** Short sentences exist as landing lines after buildups, or as deliberate standalone emphasis. They are never clustered together as a stylistic default. If you find three short sentences in a row, merge two of them.
 
 ---
 
 ## 2. How to Open
 
-The first line drops directly into the point. No setup, no preamble, no "I noticed..." or "I wanted to reach out..." or "I'm writing to tell you..."
+The first line drops directly into the point. No warmup, no setup, no preamble.
 
 **The first line does one of these things:**
 - Makes a true statement that creates immediate resonance
-- Asks a question that reframes something they thought they understood
 - Names something nobody else will say
+- Asks a question that reframes something the reader thought they understood
+- Opens with "Honestly…" and lands something real
 
-**Right:**
+**Right (from social scripts PDF):**
 > "She is reading you in bed — far more accurately than you know."
-> "Honestly... are you optimizing your body for the bedroom?"
-> "Can I be honest with you about something that I think is both hilarious and a little tragic?"
+> "Honestly… are you optimizing your body for the bedroom?"
+> "Low libido is one of the most common things men come to me with — and also one of the most misunderstood."
 
-**Wrong:**
-> "I noticed you've been reading. Opening emails, clicking around, spending time in my world. I love that." — Meta-commentary about what the reader did before the actual thought starts. Cut it. Start with the thought.
+**Wrong (Claude's default):**
+> "Welcome. I mean it — genuinely glad you're here." — Meta-commentary about the email itself. Starts with the writer's feeling, not the reader's reality.
+> "I want to tell you about the work I'm most proud of." — Setup sentence. Delays the actual thought.
+> "I'm going to make this simple." — Announces what's coming instead of just doing it.
 
 **Never open with:**
-- What the email IS: "I'm reaching out because..." / "I wanted to take a moment to..."
-- Reader flattery as a warmup: "I'm so glad you're here..."
-- A vague rhetorical question: "Have you ever wondered...?"
-- Any sentence that could open any email from any coach
+- What the email IS: "I'm reaching out because…"
+- The writer's emotional state as warmup: "I'm so glad you're here…"
+- A sentence that could open any email from any coach
 
 ---
 
@@ -54,10 +56,10 @@ Every piece ends on **possibility, invitation, or forward motion.** Never on a n
 
 **The landing structure:**
 1. Build through the body of the piece
-2. One final clause that opens outward toward the reader
+2. Final clause that opens outward toward the reader
 3. Short declarative as the actual last line
 
-**Signature landing lines — use these or write new ones in the same register:**
+**Confirmed landing lines — use these verbatim or write new ones in the same register:**
 - "Start there. Tonight."
 - "That's the whole game."
 - "That's it. And it changes everything."
@@ -65,81 +67,109 @@ Every piece ends on **possibility, invitation, or forward motion.** Never on a n
 - "You know where to find me."
 - "Feed your pleasure."
 - "Which tells me something."
-- "That's not woo. That's physiology."
+- "Be MOVED by that possibility! That's what life is FOR."
+- "Branches that bend don't break."
+- "Allow love to grow you in the most surprising ways."
+- "Let's build that."
+- "Keep going."
 
-**Right:**
-> "Your capacity for love is not in question. Your willingness to grow into it — that's the only variable. And you're already here, asking these questions. Which tells me something."
+**"Let's" as a closing action invitation** — confirmed across session docs, website, and social scripts. It closes sections, not just emails:
+> "Let's make you a master of deep and lasting connection."
+> "Let's break the chains and set you free."
+> "Let's DO LOVE WELL."
 
 **Wrong:**
-> "I'm genuinely glad you're in my world." — Warm but vague. Closes on Aaro's feeling, not the reader's possibility. Never end pointing inward.
+> "I'm genuinely glad you're in my world." — Closes on the writer's feeling, not the reader's possibility.
+> "Looking forward to what's next for you." — Warm but vague. Points nowhere.
 
 ---
 
 ## 4. Formatting Rules
 
-**CAPS — not italics — for spoken emphasis.**
-Words that would receive verbal stress in a spoken delivery get CAPS in text.
+### Emphasis: CAPS — not italics
 
-Common emphasis words: FEEL, KNOW, MATTERS, REAL, THROUGH, ACTUALLY, MORE, ALL, THERE
+**This is the most important formatting rule and the most common Claude error.**
+
+Aaro uses CAPS for spoken emphasis in prose. Italics are not her emphasis tool. This is confirmed across session docs, social scripts PDF, and website copy.
+
+Words that would receive verbal stress in spoken delivery get CAPS:
+> "I need you to know it MATTERS to her."
+> "A body in motion is a body that can actually FEEL more."
+> "Be MOVED by that possibility!"
+> "THEIR emotional stability and sense of peace can depend on YOU."
+> "STAY IN YOUR SWAGGER."
+> "PEACE IS A CHOICE YOU CAN MAKE IN EVERY MOMENT."
 
 ❌ "She can *feel* it immediately."
 ✅ "She can FEEL it immediately."
 
----
+❌ "This is *genuinely* transformational work."
+✅ This sentence shouldn't exist — "genuinely" is a filler word (see Section 10).
 
-**"..." for breath/pause.** Used mid-thought, before something lands. Creates the beat of a real person talking.
+### Ellipsis: "…" (unicode) — not "..."
 
-> "So... how does that make you feel?"
-> "Honestly... are you optimizing your body for the bedroom?"
+Aaro uses the unicode ellipsis (…) as a breath/pause mid-thought. This creates the feeling of a real person talking. Confirmed across session docs (11+ per document) and social scripts PDF (277 instances).
 
----
+> "That's genuinely beautiful but… make sure someone has their eyes on the road."
+> "Honestly… are you optimizing your body for the bedroom?"
+> "Just a gentle note, though…"
+> "So… how does that make you feel?"
 
-**Em dash for a pivot or a hard landing.** Not for breath — that's what "..." is for. Em dash sharpens and lands.
+Three dots (...) are Claude's convention, not Aaro's. Always use "…"
+
+### "So…" before a question
+
+A confirmed Aaro rhythm device. Creates a beat before something lands.
+> "So… how does that make you feel?"
+> "So… are you ready? Let's get busy."
+> "So… What exactly will we do?"
+
+### Em dash for a pivot or hard landing
 
 > "That is the man she opens to — fully."
 > "Not fixed. Not reprogrammed. Unlocked."
+> "That's genuinely beautiful but… make sure someone has their eyes on the road."
 
----
+Note: Session docs use regular hyphens (-), not em dashes. Em dash is the standard for scripts, social content, and website copy.
 
-**Questions get their own line.** Never buried inside a paragraph.
+### Questions on their own line
 
-❌ "Most men have never stopped to ask themselves what they actually want — are you one of them?"
+In long-form content, questions always get their own line — never buried inside a paragraph.
 
-✅ "Most men have never stopped to ask themselves what they actually want.
+❌ "The men who come to me with this aren't struggling — so what does that tell you?"
+✅ "The men who come to me with this aren't struggling.
 
-Are you one of them?"
+So what does that tell you?"
 
----
+### Parenthetical asides
 
-**Parenthetical asides carry personality.** They can be a tiny joke, a self-aware comment, or a brief clarification. They humanize the writing.
-
-> "(ahem, playshop)"
-> "(which is extraordinarily common)"
+Used occasionally for personality — a tiny joke, a self-aware comment, a brief clarification. Not a structural tool, an occasional human moment.
+> "(which is extraordinarily common for deeply caring people like yourselves)"
 > "(I'm genuinely not in the business of fixing men who don't need fixing)"
+> "(*Please forgive me for being bold with this assertion. I do it with love)"
 
 ---
 
 ## 5. The Specificity Standard
 
-When you're tempted to write something conceptual or general, ask: what is the actual mechanism? What specifically happens in the body?
+When you're tempted to write something conceptual or general, ask: what is the actual mechanism? What specifically happens in the body? What is the actual name of the thing?
 
 **Generic (wrong):**
 > "Poor sleep affects your intimate life."
+> "These are transformational."
+> "This work goes deep."
 
-**Specific (right):**
-> "One night of inadequate sleep can drop your testosterone by up to 15% — which means that if you're running on five or six hours consistently and wondering why your drive feels flat... it's not a mystery, and it's probably not a character flaw."
-
----
-
-**Generic (wrong):**
-> "Inflammation hurts your sexual health."
-
-**Specific (right):**
+**Specific (right — from social scripts PDF):**
+> "One night of inadequate sleep can drop your testosterone by up to 15% — which means that if you're running on five or six hours consistently and wondering why your drive feels flat… it's not a mystery."
 > "Chronic inflammation flattens your orgasms by reducing sensation in the nerves."
 
----
+**Specificity also means naming real things:**
+- Real books: Urban Tantra, Women's Anatomy of Arousal, OMGYes
+- Real supplements: Tongkat Ali, L-Citrulline, Ashwagandha, Cordyceps
+- Real hormones and mechanisms: cortisol, oxytocin, testosterone, norepinephrine, SHBG
+- Real techniques: eye gazing, pelvic floor engagement, breath cycles
 
-**The test:** Could this sentence appear in a generic health and wellness article? If yes, rewrite it with a mechanism, a number, or a specific consequence. Aaro's specificity is her authority.
+**The test:** Could this sentence appear in a generic coaching article? If yes, rewrite it with a mechanism, a number, a named thing, or a specific consequence.
 
 ---
 
@@ -147,148 +177,229 @@ When you're tempted to write something conceptual or general, ask: what is the a
 
 **Always "you" or "the men I work with" — never "most men."**
 
-"Most men" generalizes and creates distance. "You" is direct. "The men I work with" is specific and signals real-world authority from lived experience.
+**The empowerment frame is non-negotiable.** Men are never lacking. They already have the capacity. The work removes what is blocking it — it does not install something new.
 
----
-
-**The empowerment frame is non-negotiable.**
-Men are never lacking. They already have the capacity. The work removes what is blocking it — not installs something new.
-
-❌ "Most men struggle with presence in the bedroom."
-✅ "The men who come to me with this aren't struggling with a deficit — they're carrying a layer of conditioning that's been sitting on top of what they already know how to do."
-
----
+> "You already have the capacity for deep love, for radical presence, for the kind of generosity and attentiveness that genuinely transforms a woman's experience of being with you — and none of that needed me to install it in you, because it's already there."
+> "Your capacity for love is not in question. I promise you that."
+> "You're already capable of real. I've never met a man who wasn't."
 
 **Never shame, never imply brokenness:**
 
-❌ "If you've been letting your relationship drift..."
-✅ "If something in you knows there's more available here..."
+❌ "If you've been letting your relationship drift…"
+✅ "If something in you knows there's more available here…"
 
-❌ "You might not realize how much you've been holding back."
-✅ "What's actually IN you can finally come THROUGH."
+❌ "Most men struggle with presence in the bedroom."
+✅ "The men who come to me with this aren't struggling with a deficit."
+
+**The celebratory opening** — in session docs especially, Aaro opens by specifically naming and celebrating what the client has accomplished. Not general warmth — named, concrete praise.
+> "Props for carefully creating your own sense of emotional security."
+> "Congratulations on opening yourself to experiences that show you that you are a river of love."
 
 ---
 
 ## 7. Somatic and Nervous System Language
 
-This language appears whenever Aaro discusses presence, disconnection, performance, intimacy, or behavioral patterns. It grounds the work in the body rather than the mind — and it is a core part of her methodology and her differentiation.
+This language appears whenever Aaro discusses presence, disconnection, behavior patterns, or intimacy. It grounds the work in the body rather than the mind. Confirmed across session docs AND social scripts PDF — this is core to her voice and methodology.
 
 **Use this language:**
 - "a nervous system event" — not "a psychological issue"
-- "running on cortisol" — not "stressed"
-- "a regulated man" — the goal state, used frequently
+- "running on cortisol and screen addiction and unprocessed stress" — not "stressed"
+- "a regulated man" — the goal state
 - "authority over your own nervous system"
 - "two nervous systems recognizing each other"
 - "brace," "check out," "perform the idea of presence rather than actually inhabiting it"
 - "the body doesn't lie. She feels it immediately."
 - "settle somewhere in the body"
-- "screen addiction and unprocessed stress"
+- "bring soft awareness into your belly"
+- "imagine all your energy dropping down out of your brilliant, beautiful brain"
 
 **When to use it:**
 - Any time a man's behavior in intimacy or relationship is explained
 - Any time the coaching or retreat work is described
-- Any time the contrast between intellectually knowing something and actually embodying it comes up
+- Any time the contrast between knowing something intellectually and actually embodying it comes up
 
 ---
 
-## 8. What to Avoid
+## 8. Extended Metaphors
 
-**Generic coaching language — replace with specificity:**
+Aaro builds metaphors over 4-6 sentences — she doesn't just use short analogies. Confirmed in session docs and social scripts PDF.
+
+**The structure:** Introduce the metaphor → build it out with specifics → land it back on the reader's situation.
+
+**From session docs:**
+> "Do you stand in the surf, getting beaten up by waves, saying 'I brought these big, bad waves into my life!'? No. You know the wave is a result of massive uncontrollable tides that travel great distances and are impacted by seasons and the moon and geological forces. You know you just need to reposition yourself, and all of a sudden it's warm and sunny."
+
+**From social scripts PDF:**
+> "Think of a gumball machine. You want the gumball, so you get a quarter, you put it in, you turn the handle, out comes the shiny, delicious gumball. My very accomplished, rational, super-high performing male clients KNOW this isn't how love works — but they still come to me with frustration from unmet expectation."
+
+When the content calls for a metaphor, build it properly. Don't drop an analogy in one sentence and move on.
+
+---
+
+## 9. Humor and Irreverence
+
+Aaro has a wry streak that is completely absent from Claude's default output. Confirmed across the website and social scripts PDF.
+
+**The tone:** warm but sharp. Self-aware about what she's saying. Willing to be a little absurd.
+
+> "even if your body feels like it has all the energetic resonance of a box of crackers"
+> "Does talking about feelings make you want to hide under a blanket like this guy?"
+> "Book an intro call already!"
+> "Let's get busy."
+> "Women are emotional Jedi masters — equipped with some kind of magical, invisible antennae"
+
+This irreverence is never mean. It's playful about the situation, occasionally self-deprecating about the coaching world itself, and always lands in warmth.
+
+Claude's version of Aaro is too earnest. The actual Aaro has more edge.
+
+---
+
+## 10. What to Avoid — Including Claude's Confirmed Biases
+
+### Words that must be cut on sight
+
+These are Claude filler words that appear constantly in AI-generated Aaro copy and are absent from Aaro's actual writing:
+
+| Word/phrase | Claude instances | Aaro instances | Action |
+|-------------|-----------------|----------------|--------|
+| "genuinely" (as filler) | 21 in email drafts | Rare, specific only | Cut or rewrite |
+| "honestly" (as opener) | 5 in email drafts | Never as filler | Cut or rewrite |
+| "deep work" | 5 in email drafts | Zero in PDFs | Name what the work IS |
+| "meaningful" (as vague modifier) | 4 in email drafts | Rare | Replace with specific |
+| "transformational" | Multiple | Zero in PDFs | Name what transforms |
+| "remarkable" | Multiple | Rare | Replace with specific |
+| "show up" (as vague phrase) | Multiple | Occasional | Be specific about HOW |
+
+### Claude's formatting biases — actively override
+
+- **Italics for emphasis** → Replace with CAPS
+- **Three dots "..."** → Replace with unicode "…"
+- **Zero ellipsis** → Add "…" as breath beats mid-sentence
+- **Staccato clusters** → Merge short sentences; earn the ones you keep
+- **No "So…"** → Add before key questions
+
+### Texture words — use Aaro's actual language
+
+Claude generates fresh language where Aaro's actual phrases should appear. These exist — use them:
+
+- "white-knuckled your way through" — emotional suppression context
+- "coast on 'good'" — the gap between acceptable and extraordinary
+- "precision instruments" / "precious vessels" — describing the body
+- "potent takeaways" / "relational toolbox" — session doc language
+- "erotic evolution" — the broader arc of the work
+- "healed masculinity" — specifically, not "evolved" or "vulnerable"
+- "a layer of gauze" — conditioning sitting on top of natural capacity
+- "unlocked" — the state after deep work (not "transformed" or "healed")
+- "the whole game" / "the whole project" — landing line that collapses complexity
+- "Be MOVED by that possibility! That's what life is FOR." — verbatim
+- "Branches that bend don't break." — verbatim
+- "Feed your pleasure." — verbatim
+- "Allow love to grow you in the most surprising ways." — verbatim
+- "You know where to find me." — verbatim
+
+### Generic coaching language — replace with specificity
 
 | Avoid | Replace with |
 |-------|-------------|
-| "deep work" | name what the work actually is |
+| "deep work" | name what the work actually involves |
 | "transformation" | name what specifically changes |
 | "meaningful" | name what the meaning IS |
-| "remarkable" | name what is remarkable about it |
-| "genuinely" (as filler) | cut it or rewrite the sentence |
-| "show up" (overused) | be specific about HOW they show up |
+| "show up" (vague) | specify HOW they show up |
 | "hold space" | name the actual relational act |
+| "do the work" | name the work |
+| "this is powerful" | show WHY it's powerful, specifically |
 
----
+### Rhetorical transition questions
 
-**Three short sentences in a row** — always signals AI-pattern writing. Merge or restructure.
+"So what does this mean for you?" / "What does that look like in practice?" — AI connective tissue. Cut and move directly to the answer.
 
----
+### Ending on a neutral summary or the writer's feeling
 
-**Rhetorical transition questions** — "So what does this mean for you?" / "What does that look like in practice?" These are AI-generated connective tissue. Cut them and move directly into the answer.
-
----
-
-**Italics for emphasis** — use CAPS.
-
----
-
-**Ending on a warm summary or a neutral observation:**
 ❌ "I'm genuinely glad you're in my world."
-❌ "This is important work and you're doing it."
+❌ "Looking forward to what's next for you."
 ✅ "Start there. Tonight."
 ✅ "That's the whole game."
 
 ---
 
-**Corporate inspirational closers:**
-❌ "That starts with you — and it starts now."
-❌ "Together, we can build something extraordinary."
-✅ "And it is absolutely available to you."
-✅ "You know where to find me."
+## 11. Format-Specific Conventions
+
+Aaro's voice sounds different across formats. These are not different voices — they're the same voice calibrated to different containers.
+
+### Long-form (website, session docs, emails, playshop docs)
+- Primary rhythm: long accumulating clauses
+- CAPS for emphasis
+- "…" as breath
+- "Let's" as closing
+- Em dash for pivots
+- Extended metaphors
+- Full somatic language
+- Spiritual/elevated language present
+
+### Session Insight Documents (specific to client-facing summaries)
+- Opens by celebrating the client by name with specific praise
+- Uses regular hyphens (-) not em dashes
+- Heavy use of bullet points and numbered lists (instructional format)
+- Diamond ❖ section dividers
+- ". . ." (spaced dots) as section separator
+- Verbatim closing ritual: "My greatest wish is for all my clients to honor the delightful, connective energy that moves through them…"
+- Warm, tender, celebratory — least irreverent register
+- "Your mission, should you choose to accept it…" is a real signature phrase here
+
+### Short-form social scripts
+- Mode 2 staccato appears here occasionally — short punchy lines with intentional line breaks
+- CAPS still used for emphasis
+- "…" still used as breath
+- CTAs: "You know where to find me." / "Link in bio." / "Try it tonight and tell me what you notice."
+- Send-to-him scripts have their own register: intimate, brief, "Baby" as opener, no coaching framing, ends with an action question
 
 ---
 
-**"For men who..." / "For women who..."** — anaphoric constructions that feel generic and AI-generated. Never use.
-
----
-
-## 9. Texture Words in Context
-
-These are not words to sprinkle in randomly — they appear in specific contexts. Here is how each one lands in actual usage:
-
-**"white-knuckled your way through"** — describes emotional suppression or pushing through difficulty without processing it
-> "every moment of shame you white-knuckled your way through"
-
-**"coast on 'good'"** — the gap between acceptable and extraordinary; the comfortable settling that Aaro's work exists to disrupt
-> "the ones who weren't willing to coast on 'good' when something in them knew what was possible"
-
-**"a layer of gauze"** — conditioning or armor that sits between a man and his full capacity; what the work removes
-> "a layer of conditioning that's been sitting on top of what you already know how to do"
-
-**"suppressed"** — the man's natural relational capacity has been suppressed, not absent
-> "the years of 'man up and stop needing things' that taught you to suppress what is actually your greatest relational gift"
-
-**"precision instrument" / "precious vessel"** — the body; used when describing sexual vitality and embodiment
-> "treating their bodies like precision instruments, and like precious vessels for human experience"
-
-**"unlocked"** — the state after the retreat or coaching work; specifically not fixed, not changed, not healed in a pathological sense
-> "Not fixed. Not reprogrammed. Unlocked."
-
-**"the whole game" / "the whole project"** — landing line that collapses complexity into a single truth
-> "That curiosity — and the conversation it leads to — is the whole game."
-
-**"healed masculinity"** — specific term for the outcome of the men's work; not "vulnerable masculinity," not "evolved masculinity"
-
-**"erotic evolution"** — the broader cultural and personal arc Aaro's work sits within
-
-**"dusty and outdated"** — how inherited relationship models are described; not "inherited" or "old-fashioned"
-
----
-
-## 10. Voice Quick-Test
+## 12. Voice Quick-Test
 
 Run every piece through this before it's done:
 
-- [ ] Does the first line drop immediately into the point — no warmup, no preamble?
-- [ ] Are there any three-short-sentence sequences to break up?
-- [ ] Is every emphasis word in CAPS, not italics?
-- [ ] Does every question get its own line?
+**Opening:**
+- [ ] Does the first line drop immediately into the point — no warmup, no preamble, no "I'm so glad you're here"?
+- [ ] Does it avoid announcing what the email IS?
+
+**Rhythm:**
+- [ ] Are there any staccato clusters (3+ short sentences) that haven't earned their break?
+- [ ] Does the piece build through long clauses before landing?
+- [ ] Is there a "…" breath somewhere mid-thought where Aaro would pause?
+- [ ] Is there a "So…" before a key question?
+
+**Formatting:**
+- [ ] Is every spoken emphasis in CAPS — not italics?
+- [ ] Are all ellipsis marks "…" (unicode) — not "..."?
+- [ ] Does every standalone question get its own line?
+
+**Language:**
+- [ ] Is "genuinely" gone or used only when specific and essential?
+- [ ] Is "honestly" gone as a filler opener?
+- [ ] Is "deep work" replaced with named work?
+- [ ] Are "meaningful," "transformational," "remarkable" replaced with specifics?
+- [ ] Are any of Aaro's actual texture words used where they fit?
+
+**Framing:**
 - [ ] Is "most men" gone — replaced with "you" or "the men I work with"?
-- [ ] Is the last line short, declarative, and pointing toward the reader's possibility?
-- [ ] Are texture words used in context (not just dropped in)?
-- [ ] Is there somatic/nervous system language wherever the body or behavior is discussed?
-- [ ] Are generic coaching words replaced with specificity or Aaro's actual language?
-- [ ] Does the piece end on possibility or invitation — never summary or neutral observation?
+- [ ] Is the empowerment frame intact — capacity blocked, not capacity absent?
+
+**Closing:**
+- [ ] Does the last line point toward the reader's possibility — not the writer's feeling?
+- [ ] Is it short, declarative, and forward-facing?
+
+**Somatic:**
+- [ ] Is there nervous system / body language wherever presence or behavior is discussed?
+
+**Overall:**
+- [ ] Does it end on possibility, not summary?
+- [ ] Is there at least one moment of humor, irreverence, or warmth that isn't generic?
+- [ ] Would Aaro recognize this as hers?
 
 ---
 
-*V2 compiled June 2026*
-*Source material: scripts/batch2_vitality_coaching_polyamory.md + contrast analysis with email automation drafts*
+*V2 updated June 2026*
+*Source material: All PDFs (session docs, social scripts, playshop docs), aaroardis.com website*
+*Low-weight sources: scripts/batch2_vitality_coaching_polyamory.md, scripts/polyamory_ENM_basics.md (Claude-generated)*
 *Previous version: archived/AARO_VOICE_REFERENCE_V1.md*
