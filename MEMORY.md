@@ -230,6 +230,20 @@ Learned from her personal edit of the Skirt Club EYTB workshop proposal (March 3
 
 ---
 
+---
+
+## IDEA CAPTURE — Future Program Concepts
+
+### The Somatic Billionaire (captured July 2026)
+Concept for a men's program combining neo-tantra, hypnosis, EFT (Emotional Freedom Technique), and parts work (IFS) to work with the subconscious mind and emotional patterns.
+
+* Positioning fit: aspirational, mastery/capability-framed name — matches high-performing male client base (founders, executives)
+* Neo-tantra already core to practice; hypnosis is a new modality — differentiator, ties subconscious/pattern work to performance mindset
+* EFT gives a tangible, teachable technique
+* Parts work deepens inner-work dimension without it needing to be named in copy — stays felt, not preached (consistent with voice rule: inner-work is felt, not led with)
+* Possible shapes to develop later: (1) signature retreat/premium 1:1 package, (2) standalone program/sub-brand (Bella-style build), (3) positioning umbrella for existing executive avatar cluster
+* Status: idea only, not yet scoped or built — revisit when ready to develop
+
 ## BELLA'S TRACK — Added April 2026
 
 A second content and income track separate from Aaro's coaching brand. Fully siloed.
