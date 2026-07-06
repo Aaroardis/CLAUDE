@@ -1,7 +1,7 @@
 # Claude Memory & Lessons Learned
 
 This file is maintained by Claude and should be read at the start of every new conversation.
-Last updated: 2026-04-16 (added AARO_VOICE_REFERENCE.md)
+Last updated: 2026-07-06 (V5 voice reference — structural-gap framing correction + ripple-effect section for premium male positioning)
 
 ---
 
@@ -33,7 +33,7 @@ Before any task, Claude must:
 | `ABOUT_ME.md` | Aaro's bio, credentials, offerings, pricing — sourced from aaroardis.com archive (March 2026) |
 | `scripts/polyamory_ENM_basics.md` | Script batch 1 — Polyamory/ENM basics, male audience, all platforms. Includes send-to-him variants on scripts 03, 04, 05, 08, 11, 12 |
 | `SCRIPT_WRITING_ROADMAP.md` | **READ THIS before writing any scripts.** Complete 11-step production guide: sentence architecture, hook types, topic reference, what Aaro actually says about each topic, what to avoid, batch discipline, three-channel distinctions. Supersedes needing to repeat corrections. |
-| `AARO_VOICE_REFERENCE.md` | **READ THIS before writing any scripts or content.** Extracted language, openers, closers, texture words, empowerment framing, avoid list — compiled from session insights and Aaro's direct edits. Faster than re-reading all session PDFs. |
+| `AARO_VOICE_REFERENCE_V5.md` | **READ THIS before writing any scripts or content — hard gate, confirm "V5 read: ✓" before writing.** Canonical voice guide + mandatory 15-block email template. V5 corrects V4: premium male coaching copy must frame gaps as structural/never-trained, NOT personal deficiency or pain — this is elite optimization work, not recovery. V5 also adds ripple-effect framing (one man's growth radiates to partner/family/company/world). Supersedes all prior versions (archived in `archived/`). |
 | `SOCIAL_MEDIA_STRATEGY.md` | Nova's strategy notes from April 3, 2026 in-person meeting — platform roles, content formats, engagement tactics, goals |
 | `scripts/batch2_vitality_coaching_polyamory.md` | Script batch 2 — 50 scripts: men's sexual vitality, clean lifestyle, being an amazing lover/partner, private retreats & coaching, new to polyamory, send-to-him variants. All status: DRAFT. Generated April 16, 2026. |
 
@@ -149,6 +149,8 @@ Key tools evaluated for creating AI personas:
 
 ## Lessons Learned
 
+* **Premium male coaching positioning (July 2026):** Never frame the work as fixing a personal deficiency, pain, or struggle for Aaro's premium male clients — this is elite, expensive optimization, not recovery. Reframe any "gap" as structural (never trained in this domain, despite mastery everywhere else), not personal. See `AARO_VOICE_REFERENCE_V5.md` Section 3.
+* **Ripple effect:** Weave in the broader social impact of one man's inner work — it radiates out to partner, family, company, world, not just him. See V5 Section 3.5.
 * Always read ABOUT_ME.md and ALL project files before generating scripts or content — do not skip this
 * Primary audience is MEN — default all scripts/content to male audience unless told otherwise
 * Aaro occasionally makes posts for women to send to men — always consider a send-to-him variant for emotionally resonant scripts
