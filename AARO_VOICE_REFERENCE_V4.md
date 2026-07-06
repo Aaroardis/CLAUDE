@@ -1,8 +1,8 @@
-# Aaro Ardis — Voice Guidelines V4
+# Aaro Ardis — Voice Guidelines V5
 *A practical guide to writing in Aaro's voice*
 *Source hierarchy: Aaro's direct edits/notes > PDFs > Website > Claude-generated scripts (lowest weight)*
-*V3 supersedes V2 based on Aaro's direct punch-up of Email 2 and explicit written feedback — this is now the highest-authority source in the system*
-*Previous version archived at: archived/AARO_VOICE_REFERENCE_V2.md*
+*V4 superseded by direct correction on Section 3, given during live email-punch-up work — this is now the highest-authority source in the system*
+*Previous version archived at: archived/AARO_VOICE_REFERENCE_V4.md*
 
 ---
 
@@ -46,19 +46,37 @@ This was the single biggest correction in Aaro's direct feedback. Claude's insti
 
 ---
 
-## 3. Name the Struggle, Then Release It
+## 3. Structural Gap, Not Personal Deficiency — CORRECTED IN V5
 
-**This corrects a previous V2 rule that was wrong.** V2 said: never name the struggle directly, only ever frame as capacity. Aaro's actual edit contradicts this.
+**This corrects V3/V4 Section 3, which was wrong for Aaro's premium male client positioning. Confirmed directly by Aaro: do NOT frame the work as naming and releasing a personal deficiency, pain, or struggle.**
 
-**From Aaro's punch-up:**
-> "What I've found, supporting the evolution of amazing men like you, is that you get hung up on your own deficiencies — and you don't need to! Let's just agree you're WAY BEYOND self-blame and internal critique."
+Aaro's premium clients are high-performing, accomplished men. This is an elite, expensive, optimization-oriented experience — not a solution for men in pain, and not therapy-coded. Opening with "you get hung up on your own deficiencies" puts him in a one-down position before the offer has even been made, which works against the premium positioning.
 
-She names the pattern directly — "you get hung up on your own deficiencies" — and then immediately, in the same breath, releases him from it. This is a two-beat move:
+**The corrected two-beat move:**
 
-1. **Name it plainly.** Don't dance around the pattern with euphemism.
-2. **Release it instantly, with energy.** "And you don't need to!" / "Let's just agree you're WAY BEYOND that."
+1. **Name the gap as structural, not personal.** He isn't broken or falling short — he was simply never trained in this domain, despite being rigorously trained and excellent in every other domain of his life. The absence is the world's failure to teach him, not his failure to learn.
+2. **Position the work as the missing training / next-level mastery**, delivered with the same rigor he already brings to everything else he's excellent at.
 
-The empowerment frame still holds — he is never left in the deficiency. But you're allowed to name it directly on the way to releasing him from it. Naming it plainly is what makes the release land as real, rather than as avoidance.
+**Wrong (V3/V4 pattern — do not use for premium positioning):**
+> "You get hung up on your own deficiencies — and you don't need to! Let's just agree you're WAY BEYOND self-blame and internal critique."
+
+**Right (V5 corrected pattern):**
+> "Even the most accomplished men can go a whole life without ever being trained in this — because nobody ever thought your erotic pleasure, your romantic power, your emotional range, or your sexual mastery deserved the same rigor you bring to everything else you're excellent at. That ends now. This isn't therapy. It's optimization for the part of your life you've had the least formal training in — and the highest return on."
+
+**When the old "name it, release it" pattern (personal deficiency framing) may still be appropriate:** only in contexts explicitly about pain-relief, recovery, or entry-level audiences — never for the premium male coaching positioning. Default to the structural-gap frame unless a specific email is deliberately targeting a different audience segment.
+
+---
+
+## 3.5 Ripple Effect — NEW IN V5
+
+**Confirmed direction from Aaro: weave in the broader social impact of one man's inner work — it doesn't stop with him, it radiates outward.**
+
+Use this as an available closing or near-closing move, especially in identity/transformation and pivot-landing blocks (10 and 11 in the template below). The frame: his growth doesn't stay contained to him — it moves through him into the people and world around him.
+
+**Example direction (not a fixed script — vary the specific ripple each time):**
+> "…Which, as it turns out, is exactly what the woman you love has been waiting for. And it doesn't stop there — the way you show up changes the room you walk into, the company you lead, the family you come home to."
+
+Keep this concrete and named (partner, family, company, community) rather than compressed into vague language like "those around you." Same specificity rule as Section 8 below.
 
 ---
 
@@ -71,7 +89,7 @@ There are now three confirmed rhythm registers, not two:
 ### A) Promotional / Welcome / Sales emails — BRIEF, BULLET-POINTY, DIRECT
 Confirmed by Aaro's direct feedback ("more brief, more bullet pointy") and her own Email 2 punch-up, which is short paragraphs, bulleted lists, and punchy declaratives throughout.
 
-> "Let's just agree you're WAY BEYOND self-blame and internal critique. You can be free of performance pressure and most of your stress."
+> "That ends now. This isn't therapy. It's optimization for the part of your life you've had the least formal training in."
 
 This is the default register for the welcome sequence and any sales-oriented automation email. Short paragraphs. Bulleted benefit lists. Direct statements. Not extended literary buildup.
 
@@ -100,7 +118,7 @@ These read as a stylistic affectation, not as Aaro's natural voice. This is a co
 
 ## 6. Bulleted "We Can…" Benefit Lists
 
-**New confirmed pattern from Aaro's Email 2 punch-up.** Mid-email, not just in offerings sections — a bulleted list of concrete things the coaching/work will do, in active "we can" voice:
+**Confirmed pattern from Aaro's Email 2 punch-up.** Mid-email, not just in offerings sections — a bulleted list of concrete things the coaching/work will do, in active "we can" voice:
 
 > * We can dramatically increase your capacity to HEAR your own wisdom
 > * We can powerfully initiate you into being the lover you always wanted to be — by getting you tapped into your body
@@ -118,6 +136,8 @@ These read as a stylistic affectation, not as Aaro's natural voice. This is a co
 ✅ "DO YOURSELF A FAVOR! [Book a package now!]"
 
 CTAs in promotional emails should be commands, not gentle suggestions. Exclamation points are permitted and used for energy — this was previously underused based on the more measured session-doc tone, but promotional emails run hotter.
+
+**Sales mechanics layer (added V5):** where genuinely true, a real scarcity or urgency element (limited spots, real deadline) can sit just before the CTA to convert intent into action. Never fabricate false urgency — only use real constraints (actual spots open, actual dates).
 
 ---
 
@@ -147,7 +167,7 @@ A pet name followed by an ellipsis breath, rather than a generic "[first name]" 
 
 ## 10. Hype-List Affirmation
 
-**Confirmed pattern, new to V3.** A stacked list of elevated identity statements, used as a closing or near-closing move:
+**Confirmed pattern.** A stacked list of elevated identity statements, used as a closing or near-closing move:
 
 > "You already know you're a stud, a rockstar, a visionary, a source of love in the world."
 
@@ -157,23 +177,24 @@ This is hotter and more amplified than anything in the session docs (which are t
 
 ## 11. Confirmed From Before (Still Holding)
 
-These patterns from V2 are reconfirmed by Aaro's direct edit and should remain:
+These patterns are reconfirmed and should remain:
 
 - **"…" as breath** — used four times in a single short email by Aaro herself. Use generously, more than previously applied.
-- **Parenthetical humor** — "(Shockingly, nobody else is talking about optimizing for that.)" — kept almost verbatim from Claude's draft. Confirmed working pattern.
+- **Parenthetical humor** — kept almost verbatim from Claude's draft in past examples. Confirmed working pattern.
 - **CAPS for spoken emphasis** — "HEAR," "ARE," "WAY BEYOND," "STEP IN" all confirmed in Aaro's own edit.
-- **Empowerment framing** — "I don't need to install it for you — because it's already there" — still the core frame, just paired now with the name-it-then-release-it move (Section 3).
-- **"…Which, as it turns out…"** as a pivot into landing — confirmed, kept by Aaro.
+- **Empowerment framing** — "I don't need to install it for you — because it's already there" — still the core frame, now paired with the structural-gap move (Section 3) instead of the personal-deficiency move.
+- **"…Which, as it turns out…"** as a pivot into landing — confirmed, kept by Aaro. Now also the natural landing spot for ripple-effect framing (Section 3.5).
 - **Naming the partner specifically** — "the woman you love" rather than just "her" — slightly warmer and more concrete than generic pronoun use.
 
 ---
 
-## 12. What to Avoid — Updated Bias List
+## 12. What to Avoid — Updated Bias List (V5)
 
 | Pattern | Status | Action |
 |---------|--------|--------|
 | "The men who…" as an opener | ❌ Confirmed wrong by Aaro | Always open with direct "you" |
 | Hedged/qualified praise | ❌ Confirmed wrong by Aaro | Amplify to maximum, state as fact |
+| Naming personal deficiency/pain for premium male positioning | ❌ Confirmed wrong by Aaro (V5) | Reframe as structural gap — never trained, not personally lacking |
 | Fragment-as-header ("Not through theory.") | ❌ Confirmed wrong by Aaro | Fold into sentence or cut |
 | Extended metaphor in promotional emails | ❌ Confirmed wrong by Aaro | Reserve for long-form/retreat content only |
 | Soft CTAs | ❌ Confirmed wrong by Aaro | Use imperative + exclamation points |
@@ -183,10 +204,11 @@ These patterns from V2 are reconfirmed by Aaro's direct edit and should remain:
 | "Most men," "most people" | ❌ Still banned | Replace with direct "you" |
 | Italics for emphasis | ❌ Still banned | Use CAPS |
 | Three-dot "..." | ❌ Still banned | Use unicode "…" |
+| False/fabricated urgency or scarcity | ❌ Not permitted | Only use real, true constraints |
 
 ---
 
-## 13. Voice Quick-Test V3
+## 13. Voice Quick-Test V5
 
 Run every piece through this before it's done:
 
@@ -198,7 +220,11 @@ Run every piece through this before it's done:
 - [ ] Does it open with direct "you" address — not "the men who…" or any third-person framing?
 
 **Amplification:**
-- [ ] Is every compliment or capacity statement stated as fact, with no hedging language ("kind of," "tells me something," "rarer than it sounds")?
+- [ ] Is every compliment or capacity statement stated as fact, with no hedging language?
+
+**Positioning (V5):**
+- [ ] If naming a gap, is it framed as structural/never-trained rather than personal deficiency/pain?
+- [ ] Does the email read as premium optimization, not therapy or pain-relief?
 
 **Rhythm (for promotional/welcome emails specifically):**
 - [ ] Is it brief and bullet-pointy rather than long and literary?
@@ -208,34 +234,31 @@ Run every piece through this before it's done:
 **Structure:**
 - [ ] Is there a "we can…" bulleted benefit list if the email is pitching an offer?
 - [ ] Is the CTA imperative and energized, not tentative?
+- [ ] If urgency/scarcity is used, is it real (not fabricated)?
 
 **Specificity:**
 - [ ] Are vague compressed adjectives replaced with named, separate concrete things?
+- [ ] If using ripple-effect framing, are the ripples named specifically (partner, family, company) rather than vague ("those around you")?
 
 **Formatting:**
 - [ ] CAPS for emphasis, not italics?
 - [ ] Unicode "…" used generously as breath, not sparingly?
-
-**Framing:**
-- [ ] If naming a struggle, is it named plainly and then released with energy in the same breath?
-- [ ] Is "most men/most people" gone?
 
 **Filler:**
 - [ ] Are "genuinely," "honestly," "deep work," "transformational," "meaningful" all gone?
 
 ---
 
-*V3 compiled June 2026*
-*Highest-authority source: Aaro's direct punch-up of Email 2 + explicit written feedback on the V2.3 welcome sequence*
-*Supersedes: AARO_VOICE_REFERENCE_V2.md (archived/AARO_VOICE_REFERENCE_V2.md)*
-*Note: V3 corrects several V2 rules that were drawn from PDF/website sources but proved wrong for promotional email format specifically. Format-specificity (Section 4) is the key structural correction in this version.*
-
+*V5 compiled July 2026*
+*Highest-authority source: Aaro's direct correction on Section 3 (structural gap vs. personal deficiency) + new ripple-effect direction, given during live Email 2 revision*
+*Supersedes: AARO_VOICE_REFERENCE_V4.md (archived/AARO_VOICE_REFERENCE_V4.md)*
+*Note: V5's key correction is that V3/V4's "name the struggle, then release it" pattern was right for pain-relief/entry-level contexts but wrong for premium male positioning — where the work should read as elite optimization, not recovery from deficiency.*
 
 ---
 ---
 
 # SECTION 14 — MANDATORY EMAIL TEMPLATE STRUCTURE (Mailchimp)
-*Added in V4. This is now the literal structural skeleton for every email going forward — not just a voice guide, a template. Every promotional/welcome/automation email must be built on these 15 blocks, in this order. Source: Aaro's direct punch-up of Email 2.*
+*Carried over from V4. This is the literal structural skeleton for every email going forward — not just a voice guide, a template. Every promotional/welcome/automation email must be built on these 15 blocks, in this order.*
 
 This template is mandatory. The content inside each block changes per email's specific offer (coaching, retreat, ebook, referral, etc.) — but the block order and function do not change.
 
@@ -246,29 +269,29 @@ This template is mandatory. The content inside each block changes per email's sp
 | 3 | **Empowerment line** | "I don't need to install it — it's already there" or equivalent |
 | 4 | **Mission statement (CAPS)** | One-line framing of what the work/email IS, with CAPS emphasis on the key verb |
 | 5 | **[PICTURE]** | Image placeholder — always include this marker for Mailchimp |
-| 6 | **Name + release the struggle** | Name the relevant pattern plainly → release it with energy, same breath |
+| 6 | **Name the gap as structural, not personal (V5)** | Frame as never-trained/no-one-taught-you, not personal deficiency → position the work as elite optimization |
 | 7 | **Named offer + parenthetical humor** | What's being solved/offered, named in concrete specifics (never compressed vague adjectives) + one wry parenthetical |
 | 8 | **Transition line** | "Here are a few things we can do together…" or equivalent bridge into the list |
 | 9 | **"We can…" bullets (×3)** | Concrete benefit list — each bullet a different domain (inner/emotional, body/erotic, relational/communication, etc.) |
-| 10 | **CTA block** | Imperative command + exclamation point + button text |
+| 10 | **CTA block** | Imperative command + exclamation point + button text; real scarcity/urgency if true |
 | 11 | **Identity/transformation statement** | What they become through this — "they become fully themselves" register |
-| 12 | **Pivot landing** | "…Which, as it turns out…" — connects his transformation to what his partner/world has been wanting |
+| 12 | **Pivot landing + ripple effect (V5)** | "…Which, as it turns out…" — connects his transformation to his partner/family/company/world, named specifically |
 | 13 | **Hype-list affirmation** | Stacked identity statements at maximum amplitude — "a stud, a rockstar, a visionary…" |
 | 14 | **The Juicy Part** | Standard block, unchanged across all emails — header, one-line framing, then the tip |
 | 15 | **{Handwritten Signoff}** | Placeholder — Aaro adds her own personal signoff per send, do not write generic "With love, Aaro" here |
 
 **Notes on adapting blocks per email:**
 - Blocks 1-4 set up the emotional/identity frame — these stay structurally similar across every email regardless of offer
-- Blocks 6-9 are where the specific offer content lives (coaching vs. retreat vs. ebook vs. referral) — this is the variable core
+- Blocks 6-9 are where the specific offer content lives (coaching vs. retreat vs. ebook vs. referral) — this is the variable core. Block 6 must use the structural-gap frame (V5), not personal deficiency, for premium male positioning.
 - Block 10's CTA language changes per offer but always stays imperative + exclamation
-- Blocks 11-13 close the emotional arc — these also stay structurally similar across emails
+- Blocks 11-13 close the emotional arc — these also stay structurally similar across emails. Block 12 should weave in ripple effect where it fits naturally.
 - Block 14 (Juicy Part) is the one truly fixed, non-adaptive block
 
-**All Section 0-13 voice rules from V3 still apply within each block.** This template governs structure; V3's rules govern the language inside the structure.
+**All Section 0-13 voice rules from V5 apply within each block.** This template governs structure; V5's rules govern the language inside the structure.
 
 ---
 
-*V4 compiled June 2026*
-*V4 adds: Section 14, the mandatory 15-block Mailchimp template structure*
-*Source: Aaro's direct punch-up of Email 2, confirmed via direct conversation*
-*Supersedes: AARO_VOICE_REFERENCE_V3.md (archived/AARO_VOICE_REFERENCE_V3.md)*
+*V5 compiled July 2026*
+*V5 corrects: Section 3 (structural gap vs. personal deficiency for premium positioning), adds Section 3.5 (ripple effect)*
+*Source: Aaro's direct correction during live Email 2 revision, July 2026*
+*Supersedes: AARO_VOICE_REFERENCE_V4.md (archived/AARO_VOICE_REFERENCE_V4.md)*
