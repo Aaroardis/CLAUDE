@@ -65,6 +65,18 @@ Aaro's premium clients are high-performing, accomplished men. This is an elite, 
 
 **When the old "name it, release it" pattern (personal deficiency framing) may still be appropriate:** only in contexts explicitly about pain-relief, recovery, or entry-level audiences — never for the premium male coaching positioning. Default to the structural-gap frame unless a specific email is deliberately targeting a different audience segment.
 
+**Refinement, confirmed directly by Aaro (July 2026):** Take the assumption one step further — don't ask the reader to figure out which "type" of man he is (interested vs. committed, stuck vs. free, etc.). Tell him he already knows, because it's the exact same instinct that made him excellent everywhere else in his life.
+
+**Example (confirmed, strong):**
+> "You already KNOW which one you are. You're excellent BECAUSE you're committed to greatness, right?"
+
+**Also confirmed:** never imply his current life is lame, flat, or that he's trying to recover or remember a better past state. Frame everything forward, toward something transcendent and richer ahead — never backward toward what's missing or what used to be.
+
+❌ "...instead of just remembering the last time you felt it" (implies his life has gone flat)
+✅ "...what becomes possible when you stop settling for good, and start building something transcendent" (forward-only, no implied decline)
+
+The sell, at its core: encourage him toward the action he already knows, on some level, is the powerful and meaningful move. Don't manufacture doubt in order to sell him the answer to it.
+
 ---
 
 ## 3.5 Ripple Effect — NEW IN V5
