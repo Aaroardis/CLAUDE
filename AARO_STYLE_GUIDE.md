@@ -1,6 +1,8 @@
 # Aaro Ardis — Style & Sales Guide
-**Version 1 — July 9, 2026**
+**Version 2 — July 9, 2026**
 **Purpose:** Reference material for anyone writing on Aaro's behalf — emails, social media, scripts, or any client-facing copy. Read this before writing anything.
+
+*Updated from V1 to reflect confirmed refinements from the finalized 7-email Welcome Sequence (Version 1 FINAL, `email_sequences/welcome_sequence_v4.2.md`). See Section 15 for what changed.*
 
 ---
 
@@ -224,4 +226,31 @@ Before sending any email or client-facing copy, check:
 
 ---
 
-*This guide compiles corrections made across the Email 1-7 welcome sequence drafting process. Update as new patterns are confirmed.*
+## 15. REFINEMENTS FROM THE FINALIZED SEQUENCE (V2 additions)
+
+The following patterns were confirmed once all 7 emails were finalized together, as a complete set. These sharpen (don't replace) everything above.
+
+### Vary the greeting nickname across the sequence
+Don't reuse the same pet name in every email. Confirmed rotation across the 7 emails: Sexy, Stud, Handsome, Hot Stuff, Stud (reused once), Love, Stud (reused again). A little repetition of favorites (Stud) is fine — but don't run the same one twice in a row, and make sure the sequence as a whole feels varied, not templated.
+
+### Juicy Part tips need distinct, memorable names
+Every tip in "The Juicy Part" gets its own short, evocative title — never generic. Confirmed final titles: The Door Pause, The Unsaid Thing, The Lingering Gaze, Play Hot & Cold, The Bold Brave Inquiry, The Slow Reveal, Synced Breath. Titles should sound like something a client would want to try tonight, not a clinical instruction.
+
+### Escalating rhetorical questions are a confirmed technique
+Stacking short questions builds excitement without needing a full sentence each time — but only in short bursts (2-4 words), never more than 3-4 in a row.
+
+Confirmed example:
+> "What becomes possible when you stop settling for 'good,' and start building something… transcendent? Moving? Profound? Erotically intelligent?"
+
+### Trim repeated closer lines across the sequence
+"…Which, as it turns out…" and "You already know you're a stud, a rockstar…" were used often in earlier drafts — in the finalized sequence, several emails cut these in favor of a tighter, single closing sentence, or gave the sentiment a fresh phrasing instead. Reusable lines (Section 6 above) are still good raw material — but don't let any one of them become the default closer for every email. If an email doesn't need a big ripple-effect closer, a short, warm, direct line works better than forcing one in.
+
+### Longer, generous timing in somatic practices
+Practice instructions can ask for more time than feels minimal — "five full minutes, even ten" reads as more generous and confident than a rushed "sixty seconds." Match the timing to how substantial the practice actually is; don't default to the shortest plausible ask.
+
+### Subject lines can use full exclamatory sentences
+Confirmed working subject style beyond short punchy fragments: "You found me! I found you! That's no accident." and "You're a powerhouse. A rockstar. And you're ready to step in, right?" — longer, more conversational subject lines work well for this list, not just short commands.
+
+---
+
+*This guide compiles corrections made across the Email 1-7 welcome sequence drafting process, through the finalized Version 1. Update as new patterns are confirmed.*
