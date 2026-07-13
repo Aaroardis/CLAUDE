@@ -36,6 +36,9 @@ Before any task, Claude must:
 | `AARO_VOICE_REFERENCE_V5.md` | **READ THIS before writing any scripts or content — hard gate, confirm "V5 read: ✓" before writing.** Canonical voice guide + mandatory 15-block email template. V5 corrects V4: premium male coaching copy must frame gaps as structural/never-trained, NOT personal deficiency or pain — this is elite optimization work, not recovery. V5 also adds ripple-effect framing (one man's growth radiates to partner/family/company/world). Supersedes all prior versions (archived in `archived/`). |
 | `SOCIAL_MEDIA_STRATEGY.md` | Nova's strategy notes from April 3, 2026 in-person meeting — platform roles, content formats, engagement tactics, goals |
 | `scripts/batch2_vitality_coaching_polyamory.md` | Script batch 2 — 50 scripts: men's sexual vitality, clean lifestyle, being an amazing lover/partner, private retreats & coaching, new to polyamory, send-to-him variants. All status: DRAFT. Generated April 16, 2026. |
+| `email_sequences/finals/` | **Aaro-approved Final email sequences.** These are locked versions. Never overwrite — new approved version = new file (`final_v2.md`, etc.). |
+| `email_sequences/drafts/` | Claude-written email drafts. For reference and iteration only — not approved copy. |
+| `AARO_STYLE_GUIDE.md` | **READ THIS before writing any email or promotional copy.** Compiled style & sales guide V2 (July 2026) — corrections from finalized welcome sequence, structural gap framing, assumptive-excellence move, ripple-effect framing, specificity rules, vocabulary bank, pre-send checklist. Supersedes earlier voice notes for email work. |
 
 ---
 
@@ -146,6 +149,20 @@ Key tools evaluated for creating AI personas:
 
 * **Aaro Ardis** — the client; intimacy coach, founder
 * **Spencer** — Aaro's assistant and AI expert; checks in to help Aaro and Claude work together more effectively. Treat Spencer as a trusted collaborator with full context on the project.
+
+## File Organization & Versioning Rules
+
+* **Non-destructive always** — never delete or overwrite; archive first, then create new version
+* **Drafts vs Finals distinction (July 2026):**
+  - Claude-written drafts → `email_sequences/drafts/` — labeled with version numbers (V2.2, V4.1, etc.)
+  - Aaro-approved finals → `email_sequences/finals/` — labeled as `final_v1.md`, `final_v2.md`, etc.
+  - Finals are never overwritten — a new Aaro approval creates a new final file
+  - The welcome sequence Final Version 1 lives at `email_sequences/finals/welcome_sequence_final_v1.md`
+* **Voice reference versioning:** `AARO_VOICE_REFERENCE_V[N].md` in root; prior versions archived to `archived/`
+* **Spencer must give explicit instruction before any file is deleted**
+* **Before writing any email or copy:** Read `email_sequences/finals/` for ground-truth tone, read `AARO_STYLE_GUIDE.md` for rules
+
+---
 
 ## Lessons Learned
 
