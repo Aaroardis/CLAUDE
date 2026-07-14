@@ -12,6 +12,11 @@ Before any task, Claude must:
 2. Read `ABOUT_ME.md` from GitHub
 3. Read ALL uploaded project files before generating scripts or content
 
+**Before writing ANY email, copy, or script — also read:**
+4. `AARO_STYLE_GUIDE.md` — sales mechanics, core principles, pre-send checklist, vocabulary bank
+5. `AARO_VOICE_REFERENCE_V5.md` — voice patterns, template structure, formatting rules
+6. `email_sequences/finals/welcome_sequence_final_v1.md` — ground truth for tone, structure, and what Aaro-approved copy looks like
+
 ---
 
 ## About This Project
@@ -38,7 +43,7 @@ Before any task, Claude must:
 | `scripts/batch2_vitality_coaching_polyamory.md` | Script batch 2 — 50 scripts: men's sexual vitality, clean lifestyle, being an amazing lover/partner, private retreats & coaching, new to polyamory, send-to-him variants. All status: DRAFT. Generated April 16, 2026. |
 | `email_sequences/finals/` | **Aaro-approved Final email sequences.** These are locked versions. Never overwrite — new approved version = new file (`final_v2.md`, etc.). |
 | `email_sequences/drafts/` | Claude-written email drafts. For reference and iteration only — not approved copy. |
-| `AARO_STYLE_GUIDE.md` | **READ THIS before writing any email or promotional copy.** Compiled style & sales guide V2 (July 2026) — corrections from finalized welcome sequence, structural gap framing, assumptive-excellence move, ripple-effect framing, specificity rules, vocabulary bank, pre-send checklist. Supersedes earlier voice notes for email work. |
+| `AARO_STYLE_GUIDE.md` | **⚠️ REQUIRED READ before writing ANY copy.** Style & Sales Guide V2 (July 9, 2026) — 15 sections covering: core principle (build UP, never deficiency), structural gap framing, assumptive-excellence move, forward-only framing, sales mechanics for elite audiences, ripple-effect framing, warm eager acceptance, opener variety, format rules, specificity standard, vocabulary bank, audience context, pre-send checklist, and finalized-sequence refinements. This is the primary sales and tone reference. |
 
 ---
 
