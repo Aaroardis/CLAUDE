@@ -289,3 +289,35 @@ A second content and income track separate from Aaro's coaching brand. Fully sil
 
 **Repo files:**
 - `scripts/bella_track.md` — final social scripts + voice notes
+
+---
+
+## SkirtCouples — "Six Sexy Sundays" (August 2026)
+
+**Full title:** SKIRT COUPLES with AARO ARDIS — *Get Down with Open Relationships and The Future of Love*
+**Tagline:** *"Let's tip toe into this tantalizing new territory together!"*
+**Format:** Six-session program for Skirt Club couples. Sign-up for all six — NOT a drop-in. Plus a bonus seventh Sunday (men's group onboarding).
+**Partner:** Kate / Skirt Club. Built from the Aaro + Kate planning call transcript.
+
+**Session structure (every session uses these five blocks, in this order):**
+1. FRAME — customer-facing sales copy, written in second person TO the couple
+2. PERSPECTIVE — 1–2 sentence summary of Aaro's position
+3. TALKING POINTS — vertically stacked ● bullets, blank line between each
+4. INQUIRY — ➢ questions
+5. MISSION — ➢ homework
+
+**The six sessions:**
+1. **People Aren't Penguins** — inherited structures were built for social/political/economic safety, not human happiness. Mandated monogamy + mandatory straightness. Monogamy isn't morally superior; neither is secrecy. Ends on the blank canvas. Mission = journal the canvas PRIVATELY, individually, NOT as a couple (this mission is verbatim from the call).
+2. **Why Her Desire Matters** — women's empowerment; her desire legitimized out loud by an authority. "In order for a woman to have long-term happiness, she has to have short-term fun." Centerpiece is HIS spoken affirmation to her. He must not center himself (the "so I thought we'd have a threesome" failure mode). Asymmetry is fine and part of the plan. Not fetishized.
+3. **What's on the Menu** — IHOP/huge-menu metaphor. Nuts and bolts: sexual health, friendship with other women, sex acts, too much/too little, wild fantasies vs. achievable ones, the sweet spot with a growth edge, who do we tell. The tit-for-tat moment + the ICE CREAM CONE analogy. Sexual energy is life force; she comes home lit up and pours it back in. He becomes the man who brought her that joy.
+4. **Into the Room** — Skirt Club holds the container, YOU make the action happen. The space itself doesn't do the work. Gowns and crowns, not a g-string — she picks the outfit, he gives enthusiasm not opinion, she must feel DIVINE. Logistics: drop-off, arrival text, phones checked with coats, hours of silence is a GOOD sign, Uber tracking home. His unspoken fear ("what if she doesn't come back") + the carrot/stick.
+5. **Coming Home** — the night isn't the hard part, the next three days are. Pregame as date. His homecoming prompts (pancakes at 3am / tell me everything / softly held / bath / time to integrate). DON'T go in for the kiss — reads as reclaiming territory. Separate bed = RESET not distance. Don't ask/don't tell as a legitimate structure. Real couples speak. Hopes and fears both said out loud.
+6. **The Future of Love** — not polyamory for everyone; choice, authenticity, communication, multifacetedness. Not frozen in vows made at 24. Flower filling out its space, not a cage opening. "There's always another cookie." Love vs. lust + oxytocin (you're not necessarily gay; it won't feel like that the second time). The big reframe: women need closeness with WOMEN — female friendship/affection/support was meant to be a much bigger part of human life; men don't naturally offer sensuality and shouldn't be expected to be good at everything.
+
+**Bonus Sunday — SKIRT CLUB STALLIONS (men's group).** Name CONFIRMED (was workshopped through Stags/Knights/Gents/Hubbies/Men in Waiting). Monthly, ongoing, onboarding on the seventh Sunday. Frame: most of these men haven't told their friends and are carrying it alone. Must make them feel strong, not fragile.
+
+**Status:** Branded PDF laid out and delivered — `Skirt_Couples_-_Program_-_Aug_6th_2026.pdf` (Aug 6, 2026).
+
+**OPEN ITEM:** Aaro has alliterative catchphrases from an earlier session ("tip toe into new territory" is one — it made it into the PDF tagline) that are NOT in the planning transcript and are still to be threaded through the doc. Source material not yet located.
+
+**Lesson learned (Aug 2026):** Do NOT import frameworks or content from other files (e.g. the Four Pillars from the EYTB Skirt Club playshop) into a new deliverable unless Aaro named them. Use project files for VOICE and language, not for structure. Ask first. Same rule applies at the level of overall structure — if Aaro refers to "the program we discussed" and there's no source in the conversation, ASK for it rather than inferring an arc from adjacent material.
