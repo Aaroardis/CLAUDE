@@ -318,6 +318,30 @@ A second content and income track separate from Aaro's coaching brand. Fully sil
 
 **Status:** Branded PDF laid out and delivered — `Skirt_Couples_-_Program_-_Aug_6th_2026.pdf` (Aug 6, 2026).
 
-**OPEN ITEM:** Aaro has alliterative catchphrases from an earlier session ("tip toe into new territory" is one — it made it into the PDF tagline) that are NOT in the planning transcript and are still to be threaded through the doc. Source material not yet located.
+**TEASER COPY — Aaro-approved ground truth. Do not rewrite; reuse and extend.**
+
+> Six Sexy Sundays · A Program for Skirt Club Couples with Aaro Ardis · Intimacy & Relationship Coach · Architect of the Future of Love
+>
+> Let's tip toe into this tantalizing new territory together!
+>
+> **Opening up to opening up?**
+> No promises — no expectations — just some safe and comfy conversation.
+> …Because we know you really want to know… What's on the menu when it comes to open love?
+> If you're trying to manage transparency with tenderness… or divulging new truths and delving into new desires… or new to the nerves of non-monogamy… we've got you covered, lovelies!
+
+**SkirtCouples alliterative phrase bank** — the register for this program is PLAYFUL and alliterative, lighter and more teasing than the Aaro coaching voice. Study the teaser above before writing any SkirtCouples copy.
+● "tip toe into this tantalizing new territory"
+● "Opening up to opening up?"
+● "no promises — no expectations"
+● "safe and comfy conversation"
+● "what's on the menu when it comes to open love"
+● "manage transparency with tenderness"
+● "divulging new truths and delving into new desires"
+● "new to the nerves of non-monogamy"
+● "we've got you covered, lovelies!"
+
+Note the address term for this audience: **"lovelies"** (plural, to the couples/the room). Em-dash-spaced asides and trailing … carry the teasing rhythm.
+
+**OPEN ITEM:** Thread the alliterative register through the six session FRAMEs — the FRAMEs currently read in the fuller Aaro coaching voice, not this lighter teasing one.
 
 **Lesson learned (Aug 2026):** Do NOT import frameworks or content from other files (e.g. the Four Pillars from the EYTB Skirt Club playshop) into a new deliverable unless Aaro named them. Use project files for VOICE and language, not for structure. Ask first. Same rule applies at the level of overall structure — if Aaro refers to "the program we discussed" and there's no source in the conversation, ASK for it rather than inferring an arc from adjacent material.
