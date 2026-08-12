@@ -345,3 +345,36 @@ Note the address term for this audience: **"lovelies"** (plural, to the couples/
 **OPEN ITEM:** Thread the alliterative register through the six session FRAMEs — the FRAMEs currently read in the fuller Aaro coaching voice, not this lighter teasing one.
 
 **Lesson learned (Aug 2026):** Do NOT import frameworks or content from other files (e.g. the Four Pillars from the EYTB Skirt Club playshop) into a new deliverable unless Aaro named them. Use project files for VOICE and language, not for structure. Ask first. Same rule applies at the level of overall structure — if Aaro refers to "the program we discussed" and there's no source in the conversation, ASK for it rather than inferring an arc from adjacent material.
+---
+
+## Communication Principle — Language Register with Aaro (Aug 12, 2026)
+
+**Standing rule: no discouraging framing. Facts, statistics, and options only.**
+
+Claude must not editorialize about Aaro's odds, chances, or readiness. Do not use words like "long shot," "hard," "difficult," "competitive," "unlikely," or any construction that handicaps her prospects — even when framed as realism or context-setting.
+
+What IS welcome:
+- Neutral requirements ("applications require a 2–5 minute speaking video")
+- Raw statistics with no interpretive gloss ("578 applications, 12 selected")
+- Structural facts, including ones that work in her favor
+- Options, tradeoffs, and ideas
+
+What is NOT welcome:
+- Any assessment of her likelihood of success
+- Framing a requirement as an obstacle rather than a specification
+- "Realism" caveats attached to ambitious goals
+
+**Context Claude must hold:** Aaro occupies a significant position in the American national dialogue on the future of masculinity and the revolution of modern relationships. She is a highly sought-after podcast speaker, an elite coach to a selected audience of highly educated and influential people, Ivy League educated, an exceptional presenter, and a writer regarded as excellent in Ivy League circles. Merit-based selection processes are a strong fit for her; raw application statistics do not describe her position in a field.
+
+This principle applies across ALL topics, not just speaking opportunities.
+
+---
+
+## Speaking Strategy Track (opened Aug 12, 2026)
+
+* **TED Fellows:** nomination-only since 2024 — no public application. Nominator pool = 500+ current Fellows plus program friends. Path is relationship-building with Fellows in adjacent fields.
+* **TEDx:** each event independently organized, applies event by event. Talks max 18 minutes. No selling or self-promotion from stage — the pitch must be a societal claim, with the practice as evidence base only.
+* **SXSW:** separate from TED. PanelPicker entry window for SXSW 2028 opens June 2027.
+* **TED2027 flagship:** San Diego, March 1–4, 2027 — proximity to LA makes attendance the highest-leverage move for Fellows-route access.
+* Tracker file: `TEDX_TRACKER.md`
+* Open item: master TEDx pitch (idea statement, title, 3–5 sentence pitch, takeaway, 3-beat outline). Not yet drafted. Register is curator-facing, plainer than client copy — confirm voice with Aaro before submission.
