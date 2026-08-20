@@ -378,3 +378,34 @@ This principle applies across ALL topics, not just speaking opportunities.
 * **TED2027 flagship:** San Diego, March 1–4, 2027 — proximity to LA makes attendance the highest-leverage move for Fellows-route access.
 * Tracker file: `TEDX_TRACKER.md`
 * Open item: master TEDx pitch (idea statement, title, 3–5 sentence pitch, takeaway, 3-beat outline). Not yet drafted. Register is curator-facing, plainer than client copy — confirm voice with Aaro before submission.
+
+---
+
+## Social Media Manager TOR — FINALIZED (Aug 19, 2026)
+
+**Status:** Final. Saved to repo as `TOR_SOCIAL_MEDIA_MANAGER.md`. Role starts Sep 15, 2026, part-time contractor, two-month trial, PST afternoon/evening availability.
+
+### Structure (19 sections, up from 16 in first draft)
+1 About · 2 Shared Objective · 3 Content Themes · 4 Client Profiles · 5 Offerings · 6 Platforms · 7 Content Production · 8 Community Management · 9 Live Challenges · 10 Growth, Partnerships & Performance · 11 Sales Conversion: Aaro's Two Streams · 12 Requirements & Working Standards · 13 Brand Voice · 14 Tools · 15 Metrics · 16 Review Cadence · 17 Monthly Brief · 18 Confidentiality · 19 The Standard
+
+### Key decisions locked
+* **Aaro's Two Streams** (never "tracks," never "buckets"): **High-Volume** is the PRIMARY stream on social — ebooks, audios, live challenges, subscription; no calendar cost, no ceiling; measured on sales volume and reach. **High-Touch** is NESTED WITHIN it — 1:1, couples/polycules, premium packages, retreats; measured on qualified conversations and booked clients. Social media prioritizes High-Volume; High-Touch is a subset who deepen over time. Do NOT collapse the two, and do NOT frame High-Touch as the point of High-Volume.
+* **"Content Themes"** replaced "content buckets" throughout.
+* **Approval:** weekly batch at the weekly meeting. Approval comes from Aaro only. Stated ONCE, in Section 12 Coordination.
+* **Work 2 weeks ahead** — buffer exists for Aaro's family/health/travel absences.
+* **Coordination:** WhatsApp (or iMessage) + Google Drive day-to-day. Spencer = CTO, periodic coordination on technical/backend only.
+* **No contract term, no termination language, no hours, no rate** in the TOR — deliberately excluded. Avoid "at-will employment" (employment language in a contractor doc; CA misclassification risk).
+* **Metrics** grouped three ways: High-Volume Stream / Broad Audience / High-Touch Stream — so a strong product month and a strong pipeline month read differently in reporting.
+* Client earnings figure: **$200k+** for 1:1 clients. Digital buyers skew younger, less professionally-driven.
+* Ecosystem may branch into physical products and men's wellness + sexual health services — 12-month horizon.
+
+### Editorial rules confirmed this session (apply to ALL professional documents)
+* **Write in the affirmative. Never define the role by what it is not.** "This role is not simply about keeping social media active" — deleted. No "not just," "not simply," "rather than waiting to be." State what IS done. Aaro has given this feedback more than once; it is a standing rule, not a preference.
+* **Do not define success on Aaro's behalf.** "A single right client is a strong month" — deleted, flagged as Claude's metric, not hers. ASK what success looks like; never assert it.
+* **Fewer subheadings.** Collapse near-duplicate groupings; a reader should not have to parse many headings for one job. Section 12 merged Experience + Qualities + attitude into two blocks.
+* **Say each thing once.** Approval, the weekly meeting, and the buffer each appear in exactly one place.
+* **Sequence follows the actual order of work.** Section 7 runs plan → produce → adapt → publish.
+
+### Open flags on the final (raised, not yet resolved)
+* Section 12 first bullet under How the Manager Works reads "takes pride in executing initiative and ownership" — looks like an accidental merge of two bullets during editing.
+* "An eye for language, style, and quality" was dropped from Section 12 between drafts.
