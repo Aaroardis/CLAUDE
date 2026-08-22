@@ -6,28 +6,29 @@ Status key: USED = already published.
 
 ---
 
-## 1. Modern Masculinity / The Call to Rise
+## 1. Modern Masculinity / The Call to Rise (V2 — current)
 **Status:** USED
 **Audience:** Men
 **CTA:** Book a Welcome Call at AaroArdis.com
 
-Modern Masculinity is emerging - and it's a new era. This is a pivotal moment in history and YOU are at the center. Your personal evolution as a man matters so much... and I already know that YOU are answering the call to rise... Otherwise you wouldn't have found me, this message, or perhaps even been born to this moment in time.
+Modern Masculinity is emerging - and it's a new era. This is a pivotal moment in history and YOU are at the center. Your personal evolution as a man matters so much... and I already know that YOU are answering the call to rise... Otherwise you wouldn't have found me, run across this message, or perhaps even been born to this moment in time.
 
-Instead of simply asking "How do I become more masculine?" YOU are asking... "How do I become a man whose individual purpose benefits the entire human collective? How do I become a man known for creating more harmony, more health, more peace - both in the world and in the lives of the people I love?"
+Instead of simply asking "How do I become more masculine?" YOU are asking... "How do I become a man whose individual purpose benefits the entire human collective? How do I become a man known for creating more harmony, more health, more safety, more peace - both in the world at large and in the lives of the people I love?"
 
 These are wonderful and worthy questions for you to ask.
-The inquiry is a gift - and your determination to act on your answers is, as well.
+The inquiry is a gift to the world - and your determination to act on your answers is a gift, as well. Many people want to say Thank You to you, including me.
 
-And,,, yes... when you bring this same giving and loving spirit to intimacy, something remarkable happens.
+And,,, of course... when you bring this same giving and loving spirit to intimacy with a woman or femme, something remarkable happens.
 
 Relationships become more honest.
 Love becomes more expansive.
 Families become more secure.
 Communities of care become stronger.
+Doing good... feels really good.
 
-I know you're ready to build a love life with the same level of intention you've brought to everything else that has brought you profound joy or proud success. Right? Right. I knew it.
+You're ready to build a love life with the same level of intention you've brought to everything else good in your life. The studies, the career development, the physical training, the inner work that has brought you profound joy and proud success....? You're the kind of man that applies that same effort to the project of... How To LOVE.
 
-Book a Welcome Call at AaroArdis.com, so we can start building The Future of Love - together.
+So...book a Welcome Call at AaroArdis.com. Then, we get to start building The Future of Love - together.
 
 #consciousmasculinity #futureoflove #relationshipmastery #modernmasculinity #mensleadership
 
@@ -62,11 +63,39 @@ And then book a Welcome Call at https://aaroardis.com/
 - Stacked rhetorical questions, then the answer given back to the reader ("You already know...")
 - Reader is assumed already excellent and already in motion — "Otherwise you wouldn't be here" / "Otherwise you wouldn't have found me"
 - The structural gap is named as untrained territory, never personal deficiency
-- CAPS for emphasis (YOU, LOCKED IN), never italics
-- Unicode ellipsis and multi-dot ellipsis as breath markers throughout
-- Short declarative stacks for the ripple effect (relationships → love → families → communities)
-- Self-answering confirmation beat: "Right? Right. I knew it."
+- Name the reader's existing domains of mastery by list — studies, career development, physical training, inner work — then extend that same effort to love
+- Gratitude beat: thank the reader for the inquiry itself, on behalf of others and Aaro ("Many people want to say Thank You to you, including me")
+- CAPS for emphasis (YOU, LOCKED IN, How To LOVE), never italics
+- Unicode ellipsis and multi-dot ellipsis as breath markers throughout; four-dot trailing ellipsis before a question mark ("....?")
+- Short declarative stacks for the ripple effect (relationships → love → families → communities), capped with a plain-language payoff line ("Doing good... feels really good.")
+- Inclusive partner language: "a woman or femme," "women or people with Vs"
 - Mastery analogies pulled from domains the reader already respects (French cooking, craft, rigor, output)
-- Close with a single clear CTA plus the shared mission framing ("building The Future of Love - together")
+- Close with a single clear CTA plus the shared mission framing ("we get to start building The Future of Love - together")
 - Platform-safe spelling where needed: "s.x"
 - 5-6 hashtags, mixed lowercase and CamelCase depending on post
+
+---
+
+## Superseded Versions (retained, do not use)
+
+### 1. Modern Masculinity / The Call to Rise — V1
+
+Modern Masculinity is emerging - and it's a new era. This is a pivotal moment in history and YOU are at the center. Your personal evolution as a man matters so much... and I already know that YOU are answering the call to rise... Otherwise you wouldn't have found me, this message, or perhaps even been born to this moment in time.
+
+Instead of simply asking "How do I become more masculine?" YOU are asking... "How do I become a man whose individual purpose benefits the entire human collective? How do I become a man known for creating more harmony, more health, more peace - both in the world and in the lives of the people I love?"
+
+These are wonderful and worthy questions for you to ask.
+The inquiry is a gift - and your determination to act on your answers is, as well.
+
+And,,, yes... when you bring this same giving and loving spirit to intimacy, something remarkable happens.
+
+Relationships become more honest.
+Love becomes more expansive.
+Families become more secure.
+Communities of care become stronger.
+
+I know you're ready to build a love life with the same level of intention you've brought to everything else that has brought you profound joy or proud success. Right? Right. I knew it.
+
+Book a Welcome Call at AaroArdis.com, so we can start building The Future of Love - together.
+
+#consciousmasculinity #futureoflove #relationshipmastery #modernmasculinity #mensleadership
