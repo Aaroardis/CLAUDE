@@ -409,3 +409,42 @@ This principle applies across ALL topics, not just speaking opportunities.
 ### Open flags on the final (raised, not yet resolved)
 * Section 12 first bullet under How the Manager Works reads "takes pride in executing initiative and ownership" — looks like an accidental merge of two bullets during editing.
 * "An eye for language, style, and quality" was dropped from Section 12 between drafts.
+
+---
+
+## Session Log — August 29, 2026 (Client conversion message — high-value prospect)
+
+**Task:** Reviewed and rewrote Aaro's reply to a prospective 1:1 client following a welcome/discovery call. Client is a startup founder in an acute financial moment who asked directly for a discount. Message sent same day.
+
+**Prospect context (live pipeline item):**
+* **Referral source: Kate** — high-value press/network contact. Referral status was used explicitly in the message as license for frankness ("you're coming from Kate, so I think I can be frank"). Confirms Kate referrals warrant a more direct register.
+* Founder mid-startup-crisis; describing a newly-developing intuitive/synchronicity guidance system and "decision paralysis." Considering walking away from investor money (friends & family).
+* Cited the discovery call as having "snapped me out of my mental stuckness" — used as evidence of return in the reply.
+* **Awaiting his yes/no.** If yes: Axel sends an email with TWO discounted options (Explorer 4-session and Master 8-session).
+
+**Discount policy confirmed this session:**
+* Discounts are real but rationed — offered to clients who are highly motivated AND have sincere, temporary financial need.
+* **Axel** (business development & finance) is the buffer for all pricing/discount conversations. Aaro checks capacity with him before committing; he sends the terms email.
+* **The discount attaches to the first package booked — it is not a standing rate.** This must be stated in the message AND in Axel's written terms.
+* **Deeper discount available on the 8-session Master Package than the 4-session Explorer** — justified by the longer arc being where real change lands (and per-session cost comes out lower). Reference pricing: Explorer 4 sessions $1,990 | Master 8 sessions $3,790.
+
+**Sales-logic patterns confirmed (reusable):**
+* **Discernment as credential** — "I've 'read' hundreds of new clients at this point, and I know what readiness looks like… To me, you looked ready AF. I don't say that to everyone." Aaro's judgment is the authority; it builds the prospect up without selling him anything. Strong, high-value move.
+* **Use the prospect's own words as proof of return** — quote back what he said the call did for him rather than asserting value.
+* Corrected during drafting: **cut the shadow category.** "…and who's not ready" was flagged — it makes praise conditional on purchase and lets him fear falling out of the category. Aaro kept it this time; note as a live judgment call, not a settled rule.
+* Corrected: **"I'm not gonna lie" / "not blowing smoke up your ass"** — these announce the doubt they're trying to erase. Say the compliment plainly instead.
+* **ROI framing held:** "the return on working with me is always bigger than the number attached to it."
+* **"Feel into it"** as a close is well-matched to a prospect who is actively learning to trust his intuition — mirrors the faculty he's building.
+* **Attach a deadline to any "feel into it" close** — open-ended asks stall out with a prospect already in decision paralysis. (Aaro chose "tomorrow"; flagged as tight for this prospect's state.)
+
+**Voice notes (Aaro's own register in 1:1 messages — distinct from email copy):**
+* Spaced hyphens " - " rather than em dashes; unicode ellipsis used heavily; exclamation points frequent; emoji in personal messages (✨💪❤️, ":)").
+* Short single-line paragraphs. Warm and effusive, NOT punchy-copywriter. Avoid aphoristic closers and clever constructions — those read as Claude, not Aaro.
+* CAPS for emphasis confirmed in personal messages too (BEARINGS, LOOK, YES).
+* "Big love! / A" — confirmed sign-off for warm 1:1 messages.
+* Confirmed lines: "I'd love to be on your team!" · "that exact moment of life is where we need epic support" · "leap into the next iteration of self with purpose and passion and commitment" · "ready AF."
+
+**Open items:**
+* Axel needs the actual Master-package discount figure decided before his email goes out.
+* **Scope guardrail not yet delivered.** The "our sessions are working sessions — you'll leave every one with something to go do" line was drafted but dropped from the sent version. Given this prospect's state (startup crisis, wanting to process), the container needs naming on the first paid call so sessions don't become venting.
+* Prepared holding line if he replies with more processing instead of a decision: short, warm, no new arguments, re-ask for yes/no.
