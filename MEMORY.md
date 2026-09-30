@@ -1,7 +1,7 @@
 # Claude Memory & Lessons Learned
 
 This file is maintained by Claude and should be read at the start of every new conversation.
-Last updated: 2026-07-06 (V5 voice reference — structural-gap framing correction + ripple-effect section for premium male positioning)
+Last updated: 2026-09-30 (The Essential Sex Playbook V1 draft — ebook #2; see section at end)
 
 ---
 
@@ -43,6 +43,7 @@ Before any task, Claude must:
 | `scripts/batch2_vitality_coaching_polyamory.md` | Script batch 2 — 50 scripts: men's sexual vitality, clean lifestyle, being an amazing lover/partner, private retreats & coaching, new to polyamory, send-to-him variants. All status: DRAFT. Generated April 16, 2026. |
 | `email_sequences/finals/` | **Aaro-approved Final email sequences.** These are locked versions. Never overwrite — new approved version = new file (`final_v2.md`, etc.). |
 | `email_sequences/drafts/` | Claude-written email drafts. For reference and iteration only — not approved copy. |
+| `ebooks/` | Ebook manuscripts (markdown source for the designed PDFs). `custom_crafted_love_v3.9.md` = Custom-Crafted Love text (final designed PDF complete, Sept 2026). `essential_sex_playbook_v1.md` = The Essential Sex Playbook V1 draft (Sept 30, 2026). |
 | `AARO_STYLE_GUIDE.md` | **⚠️ REQUIRED READ before writing ANY copy.** Style & Sales Guide V2 (July 9, 2026) — 15 sections covering: core principle (build UP, never deficiency), structural gap framing, assumptive-excellence move, forward-only framing, sales mechanics for elite audiences, ripple-effect framing, warm eager acceptance, opener variety, format rules, specificity standard, vocabulary bank, audience context, pre-send checklist, and finalized-sequence refinements. This is the primary sales and tone reference. |
 
 ---
@@ -448,3 +449,35 @@ This principle applies across ALL topics, not just speaking opportunities.
 * Axel needs the actual Master-package discount figure decided before his email goes out.
 * **Scope guardrail not yet delivered.** The "our sessions are working sessions — you'll leave every one with something to go do" line was drafted but dropped from the sent version. Given this prospect's state (startup crisis, wanting to process), the container needs naming on the first paid call so sessions don't become venting.
 * Prepared holding line if he replies with more processing instead of a decision: short, warm, no new arguments, re-ask for yes/no.
+
+---
+
+## The Essential Sex Playbook — Ebook #2 (Sept 30, 2026)
+
+**Title:** The Essential Sex Playbook: Deep Learning for the Erotically Adventurous. Sold at $33 on Stan Store with an audio version, per the Aaro-approved Skirt Club Bali Email 4 (`email_sequences/drafts/skirtclub_bali_E4_approved.md`). The book delivers on that email's promises: real erotic education, "the humming, whirring, purring mechanics of arousal," advanced practices, and "the manual nobody ever gave him."
+
+**Aaro's brief:** Custom-Crafted Love (final 22-page designed PDF) was provided as an example of form ONLY. Do not copy or rework it, and no "sausage factory" approach. Build from a foundational, intellectual reading of the project's source material (Insights Summaries, playshop PDFs, scripts archive, approved emails).
+
+**Architecture (Aaro-approved):** seven layers, each resting on the one before:
+1. The Nest (safety and permission)
+2. Precision Instrument, Precious Vessel (sensation, Selective Sensitization)
+3. Slow Build, Long Burn (reading arousal, pacing)
+4. Praise Training (the feedback loop)
+5. Momentum & Flow (erotic energy, NeoTantra energetics)
+6. Wild & New (play, polarity, power, archetypes, ritual)
+7. Intimacy Is a Climate (the hour after, bonding chemistry, integration)
+
+Framed by an opening ("Sexual knowledge is REVOLUTIONARY," the French-cooking craft image, both meanings of "deep learning," how to read/listen/practice, about-me) and a close ("Let's Make Love Well": ripple, resources, offers, Welcome Call). Each layer = one image → the principle → plays, foundational to advanced ("When You're Ready for an Advanced Move…"). Every play is written as spoken guidance for the audio version. No client details.
+
+**Defaults confirmed ("Go ahead and write it"):** inclusive "you" (any erotically adventurous lover; "a woman or femme"); ~8,800 words (~30 pages, ~60 min audio); named anatomy and step-by-step technique in Aaro's elegant Insights register; "Layer One–Seven" labels with one warm nod to deep learning in the opening.
+
+**Series frame carried over from Custom-Crafted Love:** cover, welcome, about-me, offers page, handwritten signature, Welcome Call button. ➢ for concrete step and question lists (matches CCL's arrowhead boxes); `>` marks pull quotes, all of them Aaro's own lines.
+
+**Deliberately kept out:** supplement recommendations; heavy body-optimization content (reserved for The Performance Protocol).
+
+**Status:** V1 draft at `ebooks/essential_sex_playbook_v1.md`, awaiting Aaro's read-through. Voice checker: 0 FAIL.
+
+**Open items:**
+* Praying Mantis Arms (Layer Five) is a `[PLACEHOLDER]` — Aaro to describe the move.
+* Vet lines built beyond Aaro's source material: the deep-learning explanation, clitoral anatomy paragraph, oil-and-latex safety note, solo-practice and yoni-massage step lists, energy-circuit detail, and author names added to the resources (Barbara Carrellas, Sheri Winston).
+* Design pass to follow the Custom-Crafted Love design system (Style A peach pull-quote boxes, Style B orange list boxes, arrowheads).
