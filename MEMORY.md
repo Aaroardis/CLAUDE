@@ -10,7 +10,7 @@ Last updated: 2026-07-06 (V5 voice reference — structural-gap framing correcti
 Before any task, Claude must:
 1. Read `MEMORY.md` (this file)
 2. Read `ABOUT_ME.md` from GitHub
-3. Read ALL uploaded project files before generating scripts or content
+3.Ask for any related project files before generating scripts or content
 
 **Before writing ANY email, copy, or script — also read:**
 4. `AARO_STYLE_GUIDE.md` — sales mechanics, core principles, pre-send checklist, vocabulary bank
