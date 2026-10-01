@@ -1,7 +1,7 @@
 # Claude Memory & Lessons Learned
 
 This file is maintained by Claude and should be read at the start of every new conversation.
-Last updated: 2026-09-30 (The Essential Sex Playbook V1 draft — ebook #2; see section at end)
+Last updated: 2026-09-30 (The Essential Sex Playbook V1 + Custom-Crafted Love for Men V1 drafts; see sections at end)
 
 ---
 
@@ -43,7 +43,7 @@ Before any task, Claude must:
 | `scripts/batch2_vitality_coaching_polyamory.md` | Script batch 2 — 50 scripts: men's sexual vitality, clean lifestyle, being an amazing lover/partner, private retreats & coaching, new to polyamory, send-to-him variants. All status: DRAFT. Generated April 16, 2026. |
 | `email_sequences/finals/` | **Aaro-approved Final email sequences.** These are locked versions. Never overwrite — new approved version = new file (`final_v2.md`, etc.). |
 | `email_sequences/drafts/` | Claude-written email drafts. For reference and iteration only — not approved copy. |
-| `ebooks/` | Ebook manuscripts (markdown source for the designed PDFs). `custom_crafted_love_v3.9.md` = Custom-Crafted Love text (final designed PDF complete, Sept 2026). `essential_sex_playbook_v1.md` = The Essential Sex Playbook V1 draft (Sept 30, 2026). |
+| `ebooks/` | Ebook manuscripts (markdown source for the designed PDFs). `custom_crafted_love_v3.9.md` = Custom-Crafted Love text (final designed PDF complete, Sept 2026). `essential_sex_playbook_v1.md` = The Essential Sex Playbook V1 draft (Sept 30, 2026). `custom_crafted_love_for_men_v1.md` = Custom-Crafted Love for Men V1 draft (Sept 30, 2026). |
 | `AARO_STYLE_GUIDE.md` | **⚠️ REQUIRED READ before writing ANY copy.** Style & Sales Guide V2 (July 9, 2026) — 15 sections covering: core principle (build UP, never deficiency), structural gap framing, assumptive-excellence move, forward-only framing, sales mechanics for elite audiences, ripple-effect framing, warm eager acceptance, opener variety, format rules, specificity standard, vocabulary bank, audience context, pre-send checklist, and finalized-sequence refinements. This is the primary sales and tone reference. |
 
 ---
@@ -481,3 +481,32 @@ Framed by an opening ("Sexual knowledge is REVOLUTIONARY," the French-cooking cr
 * Praying Mantis Arms (Layer Five) is a `[PLACEHOLDER]` — Aaro to describe the move.
 * Vet lines built beyond Aaro's source material: the deep-learning explanation, clitoral anatomy paragraph, oil-and-latex safety note, solo-practice and yoni-massage step lists, energy-circuit detail, and author names added to the resources (Barbara Carrellas, Sheri Winston).
 * Design pass to follow the Custom-Crafted Love design system (Style A peach pull-quote boxes, Style B orange list boxes, arrowheads).
+
+---
+
+## Custom-Crafted Love for Men — Men's Edition (Sept 30, 2026)
+
+**Title:** Custom-Crafted Love for Men: Open Relationships & the Art of Emotional Leadership. A FULL REBUILD for men — Aaro chose this over a re-voice of the original or a re-voice plus men's sections. It is not a copy of Custom-Crafted Love.
+
+**Thesis:** open love as an initiation into the art of emotional leadership (Aaro's phrase, from John's Insights: "the art of emotional leadership - of my family - and of myself"). ENM is the most demanding personal development path and one of the most free; in monogamy a man can manage around what's hidden in him, in open love it surfaces. The reader already leads everywhere else; this is the untrained domain with the highest return (structural gap). Kept generous and non-transactional, per the Gumball Syndrome teaching. Lines up with Aaro's in-progress book (collaborative leadership for a post-patriarchal society, normalizing ENM).
+
+**Architecture (Aaro-approved; every part title is her own phrase):**
+1. Be Shameless… With Yourself (his private why, Main Course or Dessert)
+2. Soft, Steady, Secure (the nest, jealousy as a signal, shake and return, affirmation ritual)
+3. Her Informed Consent Requires… You Informing (opening the conversation with her, cards on the table, Poly 101/202, sexual health)
+4. Free of Limits (her desire, asymmetry, compersion, his unspoken fear)
+5. Ask for Love With Pride (dating in open love: alignment, realness, honest bios, bandwidth, her bonding chemistry)
+6. Coming Home (pregame, his night in, homecoming menu, the Door Pause, check-ins, repair)
+7. Branches That Bend Don't Break (vision before rules, hierarchy, who else knows, living agreements, conscious coupling)
+
+Framed by a Welcome (designed from scratch, "people aren't penguins," the art of emotional leadership, vocabulary, about-me) and a close, Me to We (his brotherhood, the ripple), then the offers page.
+
+**Reader:** a man with a female partner (proposing, being asked, or already open); single and bi men welcome; "she" throughout with an inclusive note.
+
+**Skirt Couples material:** Aaro said "go for it" — used its teachings for men (her desire, his unspoken fear, the homecoming rituals, the men's circle) WITHOUT the program's session structure or anything Skirt Club-specific.
+
+**Status:** V1 draft at `ebooks/custom_crafted_love_for_men_v1.md` (~6,600 words, ~24 pages), awaiting Aaro's read-through. Voice checker: 0 FAIL.
+
+**Open items:**
+* Vet Claude-written wording: the opening-the-conversation script, the her-desire affirmation, the sample dating-bio lines, the two ⇣ reframes, and the "So… a threesome?" aside.
+* The offers page lists The Essential Sex Playbook — keep only if it launches first.
