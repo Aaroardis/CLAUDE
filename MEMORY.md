@@ -1,7 +1,7 @@
 # Claude Memory & Lessons Learned
 
 This file is maintained by Claude and should be read at the start of every new conversation.
-Last updated: 2026-09-30 (The Essential Sex Playbook V1 + Custom-Crafted Love for Men V1 + Custom-Crafted Love Universal Edition V1 drafts; see sections at end)
+Last updated: 2026-10-01 (The Essential Sex Playbook Universal Edition V1; Sept 30: Essential Sex Playbook V1, Custom-Crafted Love for Men V1, Custom-Crafted Love Universal Edition V1 — see sections at end)
 
 ---
 
@@ -43,7 +43,7 @@ Before any task, Claude must:
 | `scripts/batch2_vitality_coaching_polyamory.md` | Script batch 2 — 50 scripts: men's sexual vitality, clean lifestyle, being an amazing lover/partner, private retreats & coaching, new to polyamory, send-to-him variants. All status: DRAFT. Generated April 16, 2026. |
 | `email_sequences/finals/` | **Aaro-approved Final email sequences.** These are locked versions. Never overwrite — new approved version = new file (`final_v2.md`, etc.). |
 | `email_sequences/drafts/` | Claude-written email drafts. For reference and iteration only — not approved copy. |
-| `ebooks/` | Ebook manuscripts (markdown source for the designed PDFs). `custom_crafted_love_v3.9.md` = Custom-Crafted Love text (final designed PDF complete, Sept 2026). `essential_sex_playbook_v1.md` = The Essential Sex Playbook V1 draft (Sept 30, 2026). `custom_crafted_love_for_men_v1.md` = Custom-Crafted Love for Men V1 draft (Sept 30, 2026). `custom_crafted_love_universal_v1.md` = Custom-Crafted Love Universal Edition V1 draft, rewritten from the men's edition (Sept 30, 2026). |
+| `ebooks/` | Ebook manuscripts (markdown source for the designed PDFs). `custom_crafted_love_v3.9.md` = Custom-Crafted Love text (final designed PDF complete, Sept 2026). `essential_sex_playbook_v1.md` = The Essential Sex Playbook V1 draft (Sept 30, 2026). `custom_crafted_love_for_men_v1.md` = Custom-Crafted Love for Men V1 draft (Sept 30, 2026). `custom_crafted_love_universal_v1.md` = Custom-Crafted Love Universal Edition V1 draft, rewritten from the men's edition (Sept 30, 2026). `essential_sex_playbook_universal_v1.md` = The Essential Sex Playbook Universal Edition V1 draft, from V1 (Oct 1, 2026). |
 | `AARO_STYLE_GUIDE.md` | **⚠️ REQUIRED READ before writing ANY copy.** Style & Sales Guide V2 (July 9, 2026) — 15 sections covering: core principle (build UP, never deficiency), structural gap framing, assumptive-excellence move, forward-only framing, sales mechanics for elite audiences, ripple-effect framing, warm eager acceptance, opener variety, format rules, specificity standard, vocabulary bank, audience context, pre-send checklist, and finalized-sequence refinements. This is the primary sales and tone reference. |
 
 ---
@@ -527,3 +527,22 @@ Framed by a Welcome (designed from scratch, "people aren't penguins," the art of
 * Decide whether this edition replaces the original Custom-Crafted Love or sits beside it (they share a main title).
 * Vet two de-gendered pull quotes: "For long-term happiness, every one of us needs some short-term fun." and "There's nothing sexier than someone who knows what they want… and what they want to GIVE."
 * Vet new Claude wording: the pregnancy question, the steer-their-desire aside, and "Closeness, affection, and support from many directions…".
+
+---
+
+## The Essential Sex Playbook — Universal Edition (Oct 1, 2026)
+
+**Brief (Aaro's words):** "ReDo the Essential Sex Playbook as Universal" — same approach as the Custom-Crafted Love Universal Edition. V1 is untouched.
+
+**Approach:** V1 already spoke to any lover in most places, so this is a targeted pass over the gendered lines only. Anatomy is named plainly (clitoris, erection, yoni or lingam) without "a body with a vulva/penis" constructions, and nothing announces the inclusivity.
+
+**Changes from V1:** the "word on language" note became one consent line ("This playbook is for every body and every kind of lover…"); about-me and the coaching offer now say "for individuals, couples, and polycules"; the "women especially" asides came out (energetic perceivers, performing in bed, touch without agenda, shyness about feedback); the reproductive question adds "if pregnancy is possible between us"; "Arousal in a Body with a Penis" is now "Rise, Soften, Rise Again"; the Layer Four advanced move is "Yoni and Lingam Massage Without Agenda", with lingam anatomy added to the steps; Rock for Leverage applies to both lovers; the Masculine/Feminine line in Play with Polarity came out (the pairs stay); the Offering and Service ritual drops "a woman or femme" and asks what "their heart, their belly, their yoni or lingam" would say; Two Bonding Chemistries drops the estrogen/testosterone mapping and keeps oxytocin vs dopamine ("depending on their hormonal makeup"); the ripple says "the work you do". Resource descriptions (OMGYes, Women's Anatomy of Arousal) are unchanged, since they describe those resources.
+
+**Fit:** matches the Aaro-approved Skirt Club Bali Email 4 pitch (written to women, "and for HIM, too") better than V1, whose about-me and offers said "men and mascs".
+
+**Status:** draft at `ebooks/essential_sex_playbook_universal_v1.md` (~8,750 words), awaiting Aaro's read-through. Voice checker: 0 FAIL, the same 3 accepted WARNs as V1.
+
+**Open items:**
+* Decide whether this replaces V1 as the edition sold on Stan Store.
+* Vet Claude wording: the lingam steps in the massage list, "Rise, Soften, Rise Again", and "Touch without an agenda is one of the rarest pleasures a body can know."
+* V1's open items still apply (Praying Mantis Arms placeholder, design pass).
