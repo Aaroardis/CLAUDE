@@ -1,7 +1,7 @@
 # Claude Memory & Lessons Learned
 
 This file is maintained by Claude and should be read at the start of every new conversation.
-Last updated: 2026-09-30 (The Essential Sex Playbook V1 + Custom-Crafted Love for Men V1 drafts; see sections at end)
+Last updated: 2026-09-30 (The Essential Sex Playbook V1 + Custom-Crafted Love for Men V1 + Custom-Crafted Love Universal Edition V1 drafts; see sections at end)
 
 ---
 
@@ -43,7 +43,7 @@ Before any task, Claude must:
 | `scripts/batch2_vitality_coaching_polyamory.md` | Script batch 2 — 50 scripts: men's sexual vitality, clean lifestyle, being an amazing lover/partner, private retreats & coaching, new to polyamory, send-to-him variants. All status: DRAFT. Generated April 16, 2026. |
 | `email_sequences/finals/` | **Aaro-approved Final email sequences.** These are locked versions. Never overwrite — new approved version = new file (`final_v2.md`, etc.). |
 | `email_sequences/drafts/` | Claude-written email drafts. For reference and iteration only — not approved copy. |
-| `ebooks/` | Ebook manuscripts (markdown source for the designed PDFs). `custom_crafted_love_v3.9.md` = Custom-Crafted Love text (final designed PDF complete, Sept 2026). `essential_sex_playbook_v1.md` = The Essential Sex Playbook V1 draft (Sept 30, 2026). `custom_crafted_love_for_men_v1.md` = Custom-Crafted Love for Men V1 draft (Sept 30, 2026). |
+| `ebooks/` | Ebook manuscripts (markdown source for the designed PDFs). `custom_crafted_love_v3.9.md` = Custom-Crafted Love text (final designed PDF complete, Sept 2026). `essential_sex_playbook_v1.md` = The Essential Sex Playbook V1 draft (Sept 30, 2026). `custom_crafted_love_for_men_v1.md` = Custom-Crafted Love for Men V1 draft (Sept 30, 2026). `custom_crafted_love_universal_v1.md` = Custom-Crafted Love Universal Edition V1 draft, rewritten from the men's edition (Sept 30, 2026). |
 | `AARO_STYLE_GUIDE.md` | **⚠️ REQUIRED READ before writing ANY copy.** Style & Sales Guide V2 (July 9, 2026) — 15 sections covering: core principle (build UP, never deficiency), structural gap framing, assumptive-excellence move, forward-only framing, sales mechanics for elite audiences, ripple-effect framing, warm eager acceptance, opener variety, format rules, specificity standard, vocabulary bank, audience context, pre-send checklist, and finalized-sequence refinements. This is the primary sales and tone reference. |
 
 ---
@@ -510,3 +510,20 @@ Framed by a Welcome (designed from scratch, "people aren't penguins," the art of
 **Open items:**
 * Vet Claude-written wording: the opening-the-conversation script, the her-desire affirmation, the sample dating-bio lines, the two ⇣ reframes, and the "So… a threesome?" aside.
 * The offers page lists The Essential Sex Playbook — keep only if it launches first.
+
+---
+
+## Custom-Crafted Love — Universal Edition (Sept 30, 2026)
+
+**Brief (Aaro's words):** "Re-Work this as 'gender neutral' but not like gender neutral, more just universal." Rewritten from the men's edition; the men's file is untouched.
+
+**Approach:** same seven-part architecture and section order as the men's edition. Every line speaks to any reader and any partner, so gender never comes up as a frame, and the clinical register ("partners of any gender") is avoided. Default nouns: "your partner", "your lover", "your beloved", "the people you love"; singular "they" kept sparing, and where pronouns piled up the line became direct speech (the Ram Dass "Tell them…" triplet is now a quote to the beloved).
+
+**Changes from the men's edition:** title "Custom-Crafted Love: Open Relationships & the Art of Emotional Leadership"; the "word on language" note removed; about-me uses the BIOS.md line (architect of modern love, radically inclusive); Part Three "Informed Consent Requires… You Informing" / "Transparency is the most magnetic move there is"; "Why Their Desire Matters"; "The One Who Brought That Joy"; "Bonding Chemistry, Tender Care" (estrogen claim dropped); pregnancy question now "If pregnancy is possible between us…"; Me to We closes on "Your People" with the brotherhood and masculinity lines made universal; offers add Playshops & public speaking (wording from CCL v3.9) and drop the original-CCL cross-sell.
+
+**Status:** V1 draft at `ebooks/custom_crafted_love_universal_v1.md` (~6,560 words), awaiting Aaro's read-through. Voice checker: 0 FAIL, the same 4 accepted WARNs as the men's edition.
+
+**Open items:**
+* Decide whether this edition replaces the original Custom-Crafted Love or sits beside it (they share a main title).
+* Vet two de-gendered pull quotes: "For long-term happiness, every one of us needs some short-term fun." and "There's nothing sexier than someone who knows what they want… and what they want to GIVE."
+* Vet new Claude wording: the pregnancy question, the steer-their-desire aside, and "Closeness, affection, and support from many directions…".
