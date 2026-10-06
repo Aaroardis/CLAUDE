@@ -1,7 +1,7 @@
 # Claude Memory & Lessons Learned
 
 This file is maintained by Claude and should be read at the start of every new conversation.
-Last updated: 2026-10-01 (The Essential Sex Playbook Universal Edition V1; Sept 30: Essential Sex Playbook V1, Custom-Crafted Love for Men V1, Custom-Crafted Love Universal Edition V1 — see sections at end)
+Last updated: 2026-10-05 (Caley Media & Marketing Advising Agreement + invitation email; Oct 1: The Essential Sex Playbook Universal Edition V1; Sept 30: Essential Sex Playbook V1, Custom-Crafted Love for Men V1, Custom-Crafted Love Universal Edition V1 — see sections at end)
 
 ---
 
@@ -546,3 +546,28 @@ Framed by a Welcome (designed from scratch, "people aren't penguins," the art of
 * Decide whether this replaces V1 as the edition sold on Stan Store.
 * Vet Claude wording: the lingam steps in the massage list, "Rise, Soften, Rise Again", and "Touch without an agenda is one of the rarest pleasures a body can know."
 * V1's open items still apply (Praying Mantis Arms placeholder, design pass).
+
+---
+
+## Caley — Media & Marketing Advising Agreement (Oct 5, 2026)
+
+**Brief (Aaro's words, condensed):** a 10-hour mini media and marketing consult with Caley, who has years of social media marketing experience. Runs Oct 10 – Nov 10, 2026, over a few sessions. Goal: a media strategy for high growth in numbers and high conversion to sales of digital offerings, plus direction and momentum before the new Social Media Manager starts. The SMM start has slipped from the TOR's Sep 15 to roughly November.
+
+**Deliverable:** Google Doc "Caley + Aaro - Media & Marketing Advising Agreement - Oct 5th, 2026" in the Drive folder CALEY + AARO — https://docs.google.com/document/d/1nFmR8ihU08nnCH9jJ_Lz3aaYCeE5ZzjXZhw-9PpKkb8/edit. A first upload (layout superseded) was archived to the Drive root as "archive - Caley + Aaro - Media & Marketing Advising Agreement - V1 - archive".
+
+**Structure:** Why Caley, and Why Now (mission statement verbatim; goals: daily content output, 100K IG followers, 100K digital sales, 10 A-list clients) · Aaro's Two Streams (High-Volume is the priority on social; High-Touch nested within it; audience includes wives and girlfriends who bring the work to their partners, served by send-to-him content) · What Caley Delivers (1 Channel Audit, 2 Momentum Moves, 3 Growth and Conversion Strategy for 90 days, 4 Social Media Manager Handoff; aligned to the TOR Monthly Brief) · How the 10 Hours Run (5.5 live / 4.5 independent, four sessions, one per week) · Questions for Caley (8) · Terms · Agreed.
+
+**Aaro's decisions this session:** Google Doc in the CALEY + AARO folder · fee unknown, requested from Caley (`[CALEY'S QUOTE]` placeholder) · the 10 hours are all-in (sessions plus her audit and writing time) · include all four deliverables and her goals.
+
+**Email to Caley:** drafted in Aaro's 1:1 message voice — subject "I'd love your media genius for 10 hours! ✨", links the doc, asks for a kickoff between Oct 10 and 16, signed "Big love! / A". Voice checker: 0 FAIL (the only WARN is "numbers", Aaro's own word).
+
+**Open items:**
+* Fill in Caley's last name and fee once her quote arrives; confirm the 50/50 payment split (Claude's default).
+* Vet Claude-proposed specifics: the 90-day strategy horizon, the weekly session schedule, "three to five" Momentum Moves, the clause that Caley keeps her pre-existing methods, and the Monthly Brief alignment.
+* Share the CALEY + AARO folder with Caley before the email goes out.
+* The social media metrics sheet still has the four miscoded January rows; correct them before it goes to Caley (and to the SMM).
+
+**Tooling notes:**
+* Raw curl to the GitHub API is now blocked by the session proxy ("GitHub access to this repository is not enabled for this session"). Working route: `add_repo` (push access), then `git clone --depth 1`, commit, push.
+* Only the Google Drive connector is connected (no Google Docs editor), so Claude can create a Google Doc from HTML but can't edit it in place; Aaro edits directly in Docs.
+* Google Docs HTML import: give inline styles a single font name (a fallback list such as `'Times New Roman', serif` fell back to Arial), and prefer numbered lists to tables near page breaks (a split table repeats its header row and strands rows).
