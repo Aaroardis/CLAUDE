@@ -553,7 +553,7 @@ Framed by a Welcome (designed from scratch, "people aren't penguins," the art of
 
 **Brief (Aaro's words, condensed):** a 10-hour mini media and marketing consult with Caley, who has years of social media marketing experience. Runs Oct 10 – Nov 10, 2026, over a few sessions. Goal: a media strategy for high growth in numbers and high conversion to sales of digital offerings, plus direction and momentum before the new Social Media Manager starts. The SMM start has slipped from the TOR's Sep 15 to roughly November.
 
-**Deliverable:** a concise TOR-style agreement, iterated in chat. Aaro plans to send it in Gmail (a small engagement between friends), so it may go into the email body. A Google Doc version pushed before her review is being deleted by Aaro; an earlier upload sits in the Drive root as "archive - Caley + Aaro - Media & Marketing Advising Agreement - V1 - archive".
+**Deliverable (final, Aaro-approved Oct 5):** Google Doc "Caley + Aaro - Media & Marketing Advising Agreement - Oct 5th, 2026" in the Drive folder CALEY + AARO, two pages: https://docs.google.com/document/d/1AP16iQkECgTH35C0lTd4PLfvGy7uLdvS9vCuWdrGKJQ/edit. Iterated in chat first, then pushed on her approval. An earlier pre-review upload sits in the Drive root as "archive - Caley + Aaro - Media & Marketing Advising Agreement - V1 - archive". The CALEY + AARO folder also holds the materials Aaro is sharing with Caley: the SMM TOR PDF, "Aaro Ardis - Brand Guide.pdf", the Skirt Club EYTB slides, the Skirt Couples program PDF, and an Insights Summaries folder.
 
 **Current structure (after Aaro's edits):** Purpose (one sentence, then "The goal is:" with three bullets in her words: large follower growth that drives sales of digital products; contributing to a funnel that builds high-value personal coaching; creating a revolution in modern masculinity, and building a more loving world; then a Targets line: daily content output, 100K IG followers, 100K digital sales, 10 A-list clients) · Aaro's Two Streams (High-Volume and High-Touch, short) · What Caley Delivers (1 Channel Audit, 2 Competitor Content Analysis of content buckets from main competitors, to discuss together, 3 Momentum Moves, 4 Growth and Conversion Strategy, 5 Social Media Manager Handoff) · Questions for Caley (5) · Terms (fee to be negotiated, paid in advance; timing; confidentiality and ownership) · Agreed.
 
@@ -565,12 +565,13 @@ Framed by a Welcome (designed from scratch, "people aren't penguins," the art of
 * Drop legal boilerplate between friends (the independent-contractor line was cut). She pays in advance; no 50/50 split.
 * Show drafts in chat first; push to Drive (or anywhere else) only after her approval.
 
-**Email to Caley:** drafted in Aaro's 1:1 message voice (subject "I'd love your media genius for 10 hours! ✨", kickoff ask Oct 10-16, signed "Big love! / A"). Its doc link is now dead; fold the final TOR into the email or relink.
+**Email to Caley:** drafted in Aaro's 1:1 message voice (subject "I'd love your media genius for 10 hours! ✨", kickoff ask Oct 10-16, signed "Big love! / A"). Its doc link points to the deleted draft; swap in the final doc's link before sending.
 
 **Open items:**
 * Caley's last name; the fee (to be negotiated). Aaro's note mentioned "57" in the fee discussion, unclear whether that's a figure.
 * Vet the remaining Claude-proposed specifics: the 90-day strategy horizon, "three to five" Momentum Moves, the clause that Caley keeps her pre-existing methods.
 * The social media metrics sheet still has the four miscoded January rows; correct them before it goes to Caley (and to the SMM).
+* "Aaro Ardis - Brand Guide.pdf" (Drive, CALEY + AARO folder) is likely the brand guide Aaro means; this session used AARO_STYLE_GUIDE.md and AARO_VOICE_REFERENCE_V5.md instead and has not read the PDF.
 
 **Tooling notes:**
 * Raw curl to the GitHub API is now blocked by the session proxy ("GitHub access to this repository is not enabled for this session"). Working route: `add_repo` (push access), then `git clone --depth 1`, commit, push.
