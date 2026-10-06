@@ -553,18 +553,23 @@ Framed by a Welcome (designed from scratch, "people aren't penguins," the art of
 
 **Brief (Aaro's words, condensed):** a 10-hour mini media and marketing consult with Caley, who has years of social media marketing experience. Runs Oct 10 – Nov 10, 2026, over a few sessions. Goal: a media strategy for high growth in numbers and high conversion to sales of digital offerings, plus direction and momentum before the new Social Media Manager starts. The SMM start has slipped from the TOR's Sep 15 to roughly November.
 
-**Deliverable:** agreement draft, under review in chat. A Google Doc version (CALEY + AARO folder) was pushed before Aaro had reviewed it; she is deleting it. An earlier upload sits in the Drive root as "archive - Caley + Aaro - Media & Marketing Advising Agreement - V1 - archive". Aaro wants drafts shown in chat for review before anything is pushed to Drive, so the final goes to Drive only after her approval.
+**Deliverable:** a concise TOR-style agreement, iterated in chat. Aaro plans to send it in Gmail (a small engagement between friends), so it may go into the email body. A Google Doc version pushed before her review is being deleted by Aaro; an earlier upload sits in the Drive root as "archive - Caley + Aaro - Media & Marketing Advising Agreement - V1 - archive".
 
-**Structure:** Why Caley, and Why Now (mission statement verbatim; goals: daily content output, 100K IG followers, 100K digital sales, 10 A-list clients) · Aaro's Two Streams (High-Volume is the priority on social; High-Touch nested within it; audience includes wives and girlfriends who bring the work to their partners, served by send-to-him content) · What Caley Delivers (1 Channel Audit, 2 Momentum Moves, 3 Growth and Conversion Strategy for 90 days, 4 Social Media Manager Handoff; aligned to the TOR Monthly Brief) · How the 10 Hours Run (5.5 live / 4.5 independent, four sessions, one per week) · Questions for Caley (8) · Terms · Agreed.
+**Current structure (after Aaro's edits):** Purpose (one sentence, then "The goal is:" with three bullets in her words: large follower growth that drives sales of digital products; contributing to a funnel that builds high-value personal coaching; creating a revolution in modern masculinity, and building a more loving world; then a Targets line: daily content output, 100K IG followers, 100K digital sales, 10 A-list clients) · Aaro's Two Streams (High-Volume and High-Touch, short) · What Caley Delivers (1 Channel Audit, 2 Competitor Content Analysis of content buckets from main competitors, to discuss together, 3 Momentum Moves, 4 Growth and Conversion Strategy, 5 Social Media Manager Handoff) · Questions for Caley (5) · Terms (fee to be negotiated, paid in advance; timing; confidentiality and ownership) · Agreed.
 
-**Aaro's decisions this session:** Google Doc in the CALEY + AARO folder · fee unknown, requested from Caley (`[CALEY'S QUOTE]` placeholder) · the 10 hours are all-in (sessions plus her audit and writing time) · include all four deliverables and her goals.
+**Aaro's edits — apply to every professional document like this:**
+* Small engagements get a concise TOR: a couple of sentences, a few bullets, hours, fee (or "to be negotiated"), dates. Claude over-built the first draft ("you're working too hard on this").
+* No rationale or persuasion in a contract (no "Why Caley, and Why Now", no "her experience is why she's here").
+* No "in her words" framing or quoted mission statements in professional documents; state the goals plainly (bullets are fine when she asks for them).
+* No product lists, offer explanations (calendar cost, ceiling), audience profiles, session-by-session schedules, or format-alignment notes unless she asks.
+* Drop legal boilerplate between friends (the independent-contractor line was cut). She pays in advance; no 50/50 split.
+* Show drafts in chat first; push to Drive (or anywhere else) only after her approval.
 
-**Email to Caley:** drafted in Aaro's 1:1 message voice — subject "I'd love your media genius for 10 hours! ✨", links the agreement (swap in the final doc's link once it's pushed), asks for a kickoff between Oct 10 and 16, signed "Big love! / A". Voice checker: 0 FAIL (the only WARN is "numbers", Aaro's own word).
+**Email to Caley:** drafted in Aaro's 1:1 message voice (subject "I'd love your media genius for 10 hours! ✨", kickoff ask Oct 10-16, signed "Big love! / A"). Its doc link is now dead; fold the final TOR into the email or relink.
 
 **Open items:**
-* Fill in Caley's last name and fee once her quote arrives; confirm the 50/50 payment split (Claude's default).
-* Vet Claude-proposed specifics: the 90-day strategy horizon, the weekly session schedule, "three to five" Momentum Moves, the clause that Caley keeps her pre-existing methods, and the Monthly Brief alignment.
-* Share the CALEY + AARO folder with Caley before the email goes out.
+* Caley's last name; the fee (to be negotiated). Aaro's note mentioned "57" in the fee discussion, unclear whether that's a figure.
+* Vet the remaining Claude-proposed specifics: the 90-day strategy horizon, "three to five" Momentum Moves, the clause that Caley keeps her pre-existing methods.
 * The social media metrics sheet still has the four miscoded January rows; correct them before it goes to Caley (and to the SMM).
 
 **Tooling notes:**
